@@ -48,3 +48,11 @@ Your cultural bonus depends on which tribe you are from.
 **Bimaer** You may add one ability score point to Intelligence, but must subtract one from a different score.<br>
 **Caizer** You may add one ability score point to Strength, but must subtract one from a different score.<br>
 **Talanashta** You may add one ability score point to Dexterity, but must subtract one from a different score.<br>
+
+### Laziric
+Lazirites occupy the southern peninsula of Valarus. They typically speak Common. All Lazirites are humans. Laziric culture is centered around magical power, with magic users and non–magic users creating a two-tier system. An abnormally high number of Lazirites are magic users due to the presence of a powerful magical artifact in the center of Lazir.
+
+Lazirites believe that they have been solely blessed with great magical power by the gods. They treat all other civilizations as lesser entities, and even non-Laziric magic users are treated with great distrust. Lazirites dedicate their lives to the glorification of their divine Ascendants. They make excellent priests, sorcerers, and wizards.
+
+#### VARIANT: Cultural Bonus
+When you gain the spellcasting ability, you may start off knowing one additional spell.
