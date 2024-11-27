@@ -4,15 +4,18 @@ North Ebranans occupy the northwest corner of Valarus. The upper class of North 
 North Ebranans typically believe that everyone has their place in this world. They understand, and accept, that life, loyalty, and justice are commodities that can be bought for the right price. They make excellent rogues and warriors.
 
 (Variant) Cultural Weapon
+
 Your cultural weapon is a heavy spear. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
 
-**Heavy Spear**
+```
+Heavy Spear
 Simple melee weapon
 Damage: 1d10
 Damage type: piercing
 Properties: heavy, two-handed
 Weight: 5lb
 Cost: 3gp
+```
 
 ### South Ebranan
 South Ebranans occupy the southwest corner of Valarus. They typically speak both Common and Ebranan. Almost all South Ebranans are wood elves. South Ebranan society is highly regimented and orderly; almost every aspect of life is moderated by the government.
@@ -22,13 +25,15 @@ South Ebranans are collectivists. They believe that individual aspirations are n
 (Variant) Cultural Weapon
 Your cultural weapon is a heavy spear. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
 
-**Heavy Spear**
+```
+Heavy Spear
 Simple melee weapon
 Damage: 1d10
 Damage type: piercing
 Properties: heavy, two-handed
 Weight: 5lb
 Cost: 3gp
+```
 
 ### Tribal Valari
 Tribal Valari occupy the eastern half of Valarus. There are six distinct tribes, each with their own language and culture. However, over the past centuries the tribes have grown to hold a common identity centered around pushing back the encroaching borders of North and South Ebrana. Almost all Tribal Valari are wood elves. Tribal Valari almost never speak common.
