@@ -4,7 +4,7 @@ North Ebranans occupy the northwest corner of Valarus. The upper class of North 
 North Ebranans typically believe that everyone has their place in this world. They understand and accept, that life, loyalty, and justice are commodities that can be bought and sold for the right price. They make excellent rogues and warriors.
 
 #### VARIANT: Cultural Weapon
-Your cultural weapon is a heavy spear. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
+Your cultural weapon is a heavy spear. You are proficient in your cultural weapon. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
 
 ```
 Heavy Spear
@@ -22,7 +22,7 @@ South Ebranans occupy the southwest corner of Valarus. They typically speak both
 South Ebranans are collectivists. They believe that individual aspirations are never as important as the wellbeing of the family, city, and nation. They are dedicated workers who rarely question government edicts. They make excellent paladins and warriors.
 
 #### VARIANT: Cultural Weapon
-Your cultural weapon is a heavy spear. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
+Your cultural weapon is a heavy spear. You are proficient in your cultural weapon. If your character starts with a simple or martial weapon, they can start with a heavy spear. They can also buy it with gold as part of their starting equipment.
 
 ```
 Heavy Spear
