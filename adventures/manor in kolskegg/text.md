@@ -135,9 +135,13 @@ kids room
 master bedroom
 
 **T1**: (15ft)
+
 **T2**: (15ft) 1 servant
+
 **T3**: (15ft)
+
 **T4**: 
+
 1 watchful ebranan specops guard
 Bell
 Cage w/ \[important item or prisoner]
@@ -147,9 +151,13 @@ Cage lock: 19 AC, 8 HP, 20 DC lockpicking or special key
 ## Chase
 
 Starting distance: assume 80ft
+
 City layout: set in 120ft blocks (90ft building + 15x2ft of road)
+
 at the end of a block, can go left right or forward (split up, stay together, etc)
+
 can dash **5** times, afterwards, DC10 con check or exhaustion
+
 when con checks start coming, half the guards slow by half each time
 
 When turning into a new block, roll 1d8
