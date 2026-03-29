@@ -223,7 +223,7 @@ The curator travels as she pleases. Roll a D20 to determine her location. The cu
 | 15-16 | Kolskegg            |
 | 17-20 | Tuyevka             |
 ```
-The curator keeps at least one of every item on the list below. If a player wishes to buy more than one, roll 1d4 for every additional copy: on a 1, the stock is exhausted.
+The curator keeps at least one of every item on the list below. If a player wishes to buy more than one, roll 1d4 for every additional copy: on a 1, the stock is exhausted. (The potions not on this list are unavailable in North Ebrana, at least without going on some kind of quest to find it.)
 ```
 | Item                        | Cost        |
 |-----------------------------|-------------|
@@ -235,4 +235,5 @@ The curator keeps at least one of every item on the list below. If a player wish
 | Potion of Rest              | 600+10d20gp |
 ```
 At the GM's discretion, the Curator may also carry items from the [Tome of Magical Creation](https://github.com/ETheDummy/SwordToShield/blob/main/TomeOfMagicalCreation.md).
+
 
