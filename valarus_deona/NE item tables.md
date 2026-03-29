@@ -4,7 +4,7 @@ Due to the different economic conditions in North Ebrana and the relative isolat
 
 ### Prostoi items
 Anyone can enter and freely peruse a Prostoi market. 
-
+```
 | Item                     | Cost  |
 |--------------------------|-------|
 | Backpack                 | 1gp   |
@@ -45,10 +45,10 @@ Anyone can enter and freely peruse a Prostoi market.
 | Fresh vegetables (sack)  | 1cp   |
 | Cholera treatment (sham) | 1sp   |
 | TB treatment (sham)      | 1sp   |
-
+```
 ### Kommersant items
 Kommersant shops are generally exclusive to the merchant class. Most have a guard at the door to keep out the rabble. Any character who does not appear to be dressed in fine clothes must make a DC 11 persuasion, deception, or intimidation check to be allowed into the shop. If the check fails, it is assumed that the players cannot get into any Kommersant shop on that day/that session.
-
+```
 | Item                        | Cost  |
 |-----------------------------|-------|
 | Acid                        | 25gp  |
@@ -120,10 +120,10 @@ Kommersant shops are generally exclusive to the merchant class. Most have a guar
 | Whetstone                   | 1cp   |
 | Pitcher, fancy              | 1sp   |
 | Waterskin                   | 2sp   |
-
+```
 ### Military items
 Military items can be purchased by characters who have ties to the North Ebranan military (20% discount), or they can be purchased at the listed price from mercenaries companies selling surplus (generally, the Truespear company in Tuyevka and the Szoldar company in Kolskegg. There are small mercenary bases in other cities, but they probably lack anything other than heavy spears, light crossbows, and half plate armour.)
-
+```
 | Item                   | Cost   |
 |------------------------|--------|
 | Caltrops (bag of 20)   | 3gp    |
@@ -184,18 +184,18 @@ Military items can be purchased by characters who have ties to the North Ebranan
 | Net                    | 1gp    |
 | Arrows (20)            | 3gp    |
 | Crossbow bolts (20)    | 3gp    |
-
+```
 ### Specialty items
 Specialty items include items available through Kommersant doctor's offices, blood dealers, and the Curator.
 
 #### Kommersant doctor's offices items
-
+```
 | Item                            | Cost |
 |---------------------------------|------|
 | Antitoxin                       | 50gp |
 | Tincture of Alfvheat (goldroot) | 20gp |
 | Tincture of Opium               | 10gp |
-
+```
 #### Blood dealer items
 
 | Item                   | Cost  |
@@ -207,7 +207,7 @@ Specialty items include items available through Kommersant doctor's offices, blo
 
 #### Curator items
 The curator travels as she pleases. Roll a D20 to determine her location. The curator stays in a location for one week before moving elsewhere. 
-
+```
 | Roll  | Location            |
 |-------|---------------------|
 | 1-4   | Outside the country |
@@ -222,9 +222,9 @@ The curator travels as she pleases. Roll a D20 to determine her location. The cu
 | 13-14 | Arasensk            |
 | 15-16 | Kolskegg            |
 | 17-20 | Tuyevka             |
-
+```
 The curator keeps at least one of every item on the list below. If a player wishes to buy more than one, roll 1d4 for every additional copy: on a 1, the stock is exhausted.
-
+```
 | Item                        | Cost        |
 |-----------------------------|-------------|
 | Potion of Healing           | 200+5d20gp  |
@@ -233,6 +233,6 @@ The curator keeps at least one of every item on the list below. If a player wish
 | Potion of Strength          | 600+10d20gp |
 | Potion of Stoneskin         | 600+5d20gp  |
 | Potion of Rest              | 600+10d20gp |
-
+```
 At the GM's discretion, the Curator may also carry items from the [Tome of Magical Creation](https://github.com/ETheDummy/SwordToShield/blob/main/TomeOfMagicalCreation.md).
 
