@@ -24,7 +24,7 @@ Rokossov Danya, Szoldar captain (day front)
 
 ## Areas
 
-M1
+**M1**
 Corridor
 1d4
 1: servant
@@ -32,28 +32,28 @@ Corridor
 3: nothing
 4: nothing
 
-M2
+**M2**
 kitchen
 1d4 servants
 
-M3
+**M3**
 dining hall
 empty
 
-M4
+**M4**
 library
 DC 18 to find a book on a subject in a turn
 radotonium powder box
 
-M5
+**M5**
 servant barracks
 if at night, 2d4 servants
 
-M6
+**M6**
 servant work area
 if at day, 2d4 servants
 
-m7
+**m7**
 bathroom
 1 servant cleaning
 
@@ -63,42 +63,42 @@ To get into the sewer, one has to go to the Sevyern river which is a little ways
 
 The bars are rotted and can be broken with ease.
 
-m8
+**m8**
 \[important person]'s office
 papers about an upcoming sting on a blood dealer 
 +1 short sword (seax)
 
-m9
+**m9**
 \[important persons' spouse]'s office
 a draft of a letter to the a military commander requesting the training of new troops to travel \[somewhere]
 dusty old healing potion
 
-M10
+**M10**
 lounge
 DC 16 perception: a bottle of Vaodan liquor (amaretto), a scandal of \[important person]'s
 
-M11
+**M11**
 balcony
 10ft up, dc 12 climbing
 
-m12
+**m12**
 merc barracks
 
-m13
+**m13**
 armory (requires key)
 door: 19AC, 30 HP, 15 DC lockpicking
 3 empty stations containing heavy spear
 3 stations containing longsword, heavy spear, hand crossbow, greatshield, plate armour
 the key to the \[important item or prisoner]
 
-m14
+**m14**
 common room
 
-m15
+**m15**
 treasury (requires key)
 door: 19 AC, 50HP, 20 DC lockpicking
 
-8000stp
+8000sp
 1800gp
 110pp
 enforce carry weight on this! (1400 coins = 70 pounds = medium commoner carry weight)
@@ -107,22 +107,24 @@ gold ring set with bloodstones (250gp)
 
 Adamantite chain mail armour (requires attunement, no crits, +2 AC for total of 17) (2500gp)
 
-m16 guest room
+**m16**
+guest room
 
-m17 kids room
+**m17**
+kids room
 
-m18 master bedroom
+**m18**
+master bedroom
 
-T1: (15ft)
-T2: (15ft) 1 servant
-T3: (15ft)
-T4: 
+**T1**: (15ft)
+**T2**: (15ft) 1 servant
+**T3**: (15ft)
+**T4**: 
 1 watchful ebranan specops guard
 Bell
 Cage w/ \[important item or prisoner]
 Cage: 19 AC, 25 HP
 Cage lock: 19 AC, 8 HP, 20 DC lockpicking or special key
-
 
 ## Chase
 
