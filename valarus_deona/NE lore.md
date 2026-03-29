@@ -9,30 +9,55 @@ Everyone in Valarus uses the same time/date system: OE/PM, 13 lunar months with 
 "4:3m, 595"
 
 **Circa 2400 OE** Deonic progenitors develop sailing technology, begin mass fishing and occasional trading with Valarus and the far isles
+
 **Circa 1700 OE** after hundreds of years of disturbance, the ancient ocean god rises up and recoils against the Deonic progenitors, destroying their civilization. Coastal Valari tribes are destroyed
+
 **Circa 1300 OE** the Deon begin to develop sentience and spread south across Deona, founding the largest colony in Urazoz
+
 **Circa 400 OE** Valari tribes return to the coast and develop simple fishing boats; Deon do the same
+
 **0 PM** Fall of Maldrin
+
 **97 PM** merchants exploring the world after the fall of Maldrin contact Valarus and Deona. they establish trade and spread common to Valarus, marking the beginnings of linguistic division of classes in Valarus.
+
 **229 PM** after generations of attempts, Valari traders manage to bridge the species gap and initiate trade with Deona, starting a great economic acceleration in both countries.
+
 **233 PM** Volodymyr Solzhenitsyn, member of the Ebran tribe, grows rich from the Deonic trade and declares himself merchant king of the new Kingdom of Ebrana.
+
 **240 PM** population skyrockets in Deona as the Urazoz queen takes advantage of the food influx. She subordinates the other two queens, creating the three-precinct system, and becomes the Omarszu. Construction of religious projects in Urazoz and the Crown of Potentria begins to accelerate.
+
 **242 PM** King Solzhenitsyn expands the territory of the Kingdom of Ebrana, conquering the western coast of Valarus down to the Laziric peninsula.
+
 **258 PM** using weapons from Deona, King Solzhenitsyn has managed to conquer nearly all of Valarus, up to the Bimaer territory, before falling ill to tuberculosis and being forced to stop the campaign. Subjugated tribes in the south grow uneasy.
+
 **263 PM** Volodymyr Solzhenitsyn dies of illness, and is succeeded by his son Nazar Solzhenitsyn. The Solzhenitsyn royal line continues for several generations, making minimal progress conquering the rest of Valarus.
+
 **359 PM** the newest king, Konstantin Solzhenitsyn, proves to be a weak leader, and he is unable to quell the brewing trouble in the south. The southwest tribes, culturally independent from the north but unwilling to give up their newfound prosperity, rebel. Soliana Oraphine writes a manifesto decrying the greed of the northern merchants and envisioning an orderly and equal society that evenly divides the profits of the Deonic trade. This document is widely spread and becomes the basis for the Tribal Commune of South Ebrana. War breaks out.
+
 **360 PM** the war is not going well for the Kingdom of Ebrana, and the Solzhenitsyn dynasty has become extremely unpopular with both the merchant and peasant class. Much of the eastern territory has been reclaimed by the tribes it was taken from. Declaring a crisis, a powerful merchant in Tuyevkapol by the name of Myasnikov Sarjor seeks support to overthrow the king. He convinces the merchants and army to join his side, and strips the Solzhenitsyn family of its power.
+
 **362 PM** Myasnikov maneuvers the army into a more favorable position against South Ebrana and enters negotiations for a truce. The fertile land in central Valarus is split between Arasensk and Baileras. After a treaty is agreed upon with South Ebrana, Myasnikov creates the modem system of government by establishing the House of Scribes and dividing the country into 8 Jur, each with the power to elect a scribe to the house. North Ebrana is declared a republic on 4:8m, 362 PM.
+
 **375 PM** South Ebrana begins a campaign of aggressive military and naval expansion, heightening tensions along the border. Skirmishes break out sporadically, threatening the peace treaty.
+
 **381 PM** South Ebrana launches an invasion, occupying Canaia and Arasensk. North Ebranan forces scramble to push back the invaders but are unable to make much headway. Myasnikov sponsors the creation of the Truespear company, to train mercenaries that can contend with South Ebranan soldiers. Other companies soon follow.
+
 **383 PM** Sailing from the south, Ascendant refugees carrying the Tear of Maldrin make landfall on the southern peninsula of Valarus. They easily dispatch the local Ebranan populace and declare the existence of the Ascendancy of Lazir. Construction of Capitol begins. The disruption to South Ebrana interrupts the war effort, and North Ebrana regains lost territory as southern forces scramble to respond to the new threat.
+
 **384 PM** Military lines are established. Neither side is willing to expend resources to push further, but North Ebrana is not willing to sign another treaty after the last one was broken. A stalemate sets in that will last for centuries.
+
 **400 PM** Jur Krul is conquered from tribal Valari and integrated into North Ebrana, bringing the number of scribes to 9. (13:7m)
+
 **443 PM** Jur Doleka is conquered from tribal Valari and integrated into North Ebrana, bringing the number of scribes to 10.
+
 **477 PM** Jur Vostok  is conquered from tribal Valari and integrated into North Ebrana, bringing the number of scribes to 11.
+
 **511 PM** the Ruslano dynasty becomes the most influential family in Kolskegg, superceding the Mikhalsyn dynasty.
+
 **566 PM** the sole remaining Nordov cog wrecks off the coast of Slanik, bringing financial ruin to the dynasty. They move to Arasensk and attempt to find new opportunities there.
+
 **595 PM** a leviathan beast attacks North Ebrana and inflicts severe damage on the merchants, especially the Sarjors. Shikovras Sarjor, master of the house, is killed, throwing the house into a succession crisis. The leviathan is eventually dispatched by the newly formed Tuyevkapol Adventuring Company.
+
 **596 PM** present day.
 
 ## Names
@@ -445,3 +470,69 @@ CHA 11 (0)
 **Maneuver: Sweep** BA, dex save (17) or fall prone (adv)
 **Maneuver: Artful Parry** +7 to ac (26) against one attack
 ```
+
+## BOATS/SHIPS/COGS/GALLEYS
+
+Crew of a typical North Ebranan cog:
+Captain
+Merchant officer (Common-speaking. Assists with navigation, able to steer the ship, often negotiates with Deon)
+Crew officer (Ebranan-speaking, can steer the ship, manages crew)
+Steward, sometimes purser
+Cook/sailor
+Carpenter/sailor
+Rope maker/sailor
+Sailor
+Sailor
+Sailor
+Deckhand
+Deckhand
+Deckhand
+100 x 30 x 15 feet.
+
+**North Ebranan galleys:**
+90 x 25 x 15 feet
+Contains a small sail, 10 sets of oars, and is often connected by a tether to the cog it protects
+
+Crew:
+Mercenary officer
+10 mercenaries
+Cook/sailor
+Carpenter/sailor
+4 Deckhand/oarman
+
+SEE FLOOR PLANS FOR COGS AND GALLEYS IN THE MAPS FOLDER
+
+C1
+
+"Sea spray cascades over the bow of the ship, coating the wooden deck in a slippery film of saltwater. You can hear the furious flapping of the sails above your head, billowing in response to the strong breeze. Deckhands mill about the ship, tightening lines and waiting for orders.
+
+Near the bow of the ship is a trapdoor leading to the cargo hold. Near the stern are a set of staircases leading to the upper deck, and a pair of doors."
+
+The trapdoors and doors can only fit creatures large or smaller. It is possible for a skilled sailor to climb the rigging to reach the mast without a check. An unskilled individual must pass a DC 11 Athletics check, or fall from the rigging.
+
+C2
+
+"This room contains a bed adorned with fine woolen blankets, a chest, and a large drawing desk covered in maps and navigational tools."
+
+If the captain is not wielding it, there is a sheathed seax in the chest, as well as clothing, personal implements, and a small pouch of 4d6 PP.
+
+C3
+
+"A pair of small rooms, identically furnished, are nestled into the stern of the ship. Each room contains a simple cot and a footlocker."
+
+If the officers are not wielding them, there is a sheathed seax in each footlocker, as well as clothing, personal implements, and a small pouch of 3d4 GP.
+
+C4
+
+"This raised deck affords a clear view of the ship and the surrounding sea. The platform is kept clear of items except for the steering wheel, which is set slightly offset from the centerline of the ship."
+
+C5
+
+"The only light in this cargo hold comes from the slotted trapdoor in the ceiling. Crates, barrels, and sacks are piled up from floor to ceiling. A narrow path through the cargo winds its way to the stern; even at a glance, you can tell that this ship must carry many tons of cargo. Hammocks are strung up along the walls, nestled in between precariously leaning stacks of crates."
+
+## BLOOD DEALERS
+
+"ink deals" and "blood deals" in Ebranan parlance, referring to the legality/formality of an agreement
+a blood dealer in each of the three major cities, plus maybe one in ziapava—operates as a middleman between parties of blood deals to 
+protect anonymity. no names, designations only
+
