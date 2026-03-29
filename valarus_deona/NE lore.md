@@ -536,3 +536,250 @@ C5
 a blood dealer in each of the three major cities, plus maybe one in ziapava—operates as a middleman between parties of blood deals to 
 protect anonymity. no names, designations only
 
+## North Ebrana random encounter table (D100)
+```
+1-90: no encounter
+91-92: bandits (91) or corrupt soldiers (92). 2 per combined party level (CPL). 
+93-94: peasant dying of tb on the road
+95: undercover lazirites. 1 per 4 CPL
+96: depending on location: south ebranan military excursion, tribal military excursion, Truespear/Szoldar fight. South ebranan or tribal soldiers: 1 per CPL. Mercenaries, 1 per CPL but they are fighting each other. 
+97-98: auroch stampede, 1 per CPL.
+99: 1 wyvern, 1 per 6 CPL
+100: assassins sent by blood dealer, 1 per 4 CPL
+```
+
+## TRANSDEONIC MARITIME TRADE
+
+About 500 miles between Tuyevka and Urazoz. Merchant ships travel around 5mph, taking a little over 4 days (100 hours to be precise) to make the journey in one direction.
+
+Typically, merchant cogs will travel in groups of one or two, and a galley will be lashed to the stern of one of the cogs. The crew in the galley can quickly separate from the cog if they are needed.
+
+There are some 35 trading cogs (24 owned by the big dynasties, 11 owned by smaller families along the coast) in North Ebrana. South Ebrana probably has a slighter smaller number, around 29. Deona itself likely has only one or two vessels equipped for a transdeonic journey.
+
+In Tuyevka, the harbor is considered public infrastructure and is paid for by taxes. It is managed by Alas Sarjor, 4th scribe, and he makes sure that Sarjor dynasty ships get priority placement. The Sarjors allow other dynasties (Keyfir and previously Nordov) to use the harbor, but only to justify its status as a tax-funded property.
+
+There is no public harbor in Kolskegg. Instead, the Ruslano and Mikhalsen dynasties each have private ports managed by their stewards.
+
+Annually, North Ebranan ships provide 179.16 million pounds of flour and 59.72 million pounds of meat, while South Ebranan ships provide another 149.34 million pounds of flour and 49.77 million pounds of meat.
+
+In the PHB, a loaf of bread is with 2cp. There is labor involved in baking a loaf of bread, but for this calculation we assume that labor is represented by the effort of intercontinental shipping. A loaf of bread requires about 0.8 pounds of flour, therefore profit per pound of flour is 2.5 cp or 0.025 GP. 
+
+The value of flour exported annually to Deona from North Ebrana is thus 4.48 million GP, or 2.05% of GDP. One shipment of flour makes 3650 GP over 8 days, so 456.25 GP per day. Since the Sarjor family owns 8 cogs, they are earning 3650 GP per day. (1.33 million GP per year, 0.6% of GDP.)
+
+**Shipping math**
+125g of flour = 455 calories
+Therefore 1 pound = 1652 calories
+1 pound of beef = 1152 calories
+Deon are Large, caloric intake = 3000 calories per day
+Therefore, each Deon needs 1.5 pounds of flour and 0.5 pounds of meat per day. Assume that 600,000 Deon can be supported from Deonic industry, and the other 600,000 are dependent on imports.
+It is an 8 day round trip for a ship to go between Tuyevka and Urazoz. Therefore, all ships travelling at once must be able to supply 8 days worth of food, i.e. 7.2 million pounds of flour and 2.4 million pounds of meat.
+With 24 cogs, that works out to 400,000 pounds of goods on one ship, or 200 tons. This is too high, but not by that much—the Bremen cog carried between 90 and 120 tons.
+However, if you take into account the 20 cogs from South Ebrana, you get 44 cogs for 218,182 pounds or 110 tons, which is just about right.
+Therefore, Ebranan trading cogs have a capacity of 120 tons (110 trade, 10 tons for supplies) and are sailing near constantly.
+THIS MATH DOES NOT TAKE IN THE EXTRA 11 INDEPENDENT VESSELS!
+
+**Economic Overview:**
+The gross domestic product (GDP) of North Ebrana is 219 million GP. GDP/capita = 55 GP. (A rough estimate of conversion to USD based on gold prices gives a GDP/capita of $4,840, which is in the ballpark of Vietnam or Indonesia.)
+
+This value was calculated based off PHB living condition prices and the population of North Ebrana.
+
+## Tuyevka
+
+SEE MAP IN MAPS FOLDER
+
+**Tuyevka map key**
+1: the abandoned castle
+2: house of scribes, government offices
+3: sarjor estate, office of the truespear company
+4: keyfir estate
+5: nordov estate
+6: the great garden
+7: the solzhenitsyn institute
+
+The bridge is called the Tevyernopol (Тэвернопол) bridge.
+
+The black lines represent palisade walls, which are constructed to cordon off the Prostoi from the Kommersant.
+
+The Great Garden is kept in excellent condition by Prostoi servants. At the center of the garden is a courtyard with two statues, one of Volodymyr Solzhenitsyn and one of Myasnikov Sarjor.
+
+**Establishments**
+
+Dens
+Customs houses
+Low class shops/markets
+Textile and clothing shops/tailor
+Food shops
+Dye shops (also sells makeup)
+Haberdashery
+Leatherworker
+Slaughterhouses, warehouses, mills, etc—intake for agricultural products before being shipped out
+Water dispensaries
+Blacksmiths (custom for Kommersant), fletchers
+Lighthouse!!!
+Doctors' office for Kommersant
+Folk healer for Prostoi
+Museums
+Libraries/bookstores
+Fighting ring for Prostoi
+Theatres (plays, auctions)
+Weapon/armour stores (either military surplus, dueling supplies, or perhaps sold by the Truespear company)
+Low/high bakeries
+Bank
+Barber
+Carpentry/building company
+Furniture store
+Wainwright/wheelwrights/carriagemakers
+Cooper
+Cobbler
+Small shrine
+Wells
+Coffinmaker/funeral home/tombs for Kommersant
+Graveyard for Prostoi
+Animal shelter/store
+Ferry
+Guildhalls
+Guard towers
+Hotel for visiting Kommersant, pauper houses for Prostoi
+Locksmith
+Courier company
+Mint
+Instrument shop
+Paper maker
+Orphanage
+Potters
+Ropemaker, sailmaker, shipwright
+Schoolhouse for Prostoi? (maybe not)
+Herald/town crier?
+Toy store
+
+**Blood Dealer**
+
+The Tuyevka blood dealer is the de facto leader of all organized crime in North Ebrana. His true name is \[GM EYES ONLY], but no living person knows this name. He appears to have a large entourage of followers, but in reality, \[GM EYES ONLY]
+
+He operates secretly out of \[GM EYES ONLY] His designation in the network is Keystone.
+
+If he makes contacts with the players, he will use the false identity Lavriy Nelya and false designation Arbiter.
+
+**Dyrbov's den**
+
+Owner: Dyrbov Deniska 
+Canon: no
+Location: Prostoi commercial strip 
+Flavor: charges 1.5 cp for entry, but the shenchai is especially good and there's free eggs with the bread. The fireplace in the corner fills the room with a warm woodsmoke smell.
+
+**Glebov's den**
+
+Owner: Glebov Pyotr
+Canon: no
+Location: west of Tevyern, Prostoi residential quarter
+Flavor: 1cp for entry, dank and dusty, smells like mold and is a bit wet. The shenchai is thin. You can pay 3cp to stay in a shed for the night.
+
+**Neia's den**
+
+Owner: Neia Milyena
+Canon: no
+Location: just south of the Kommersant commercial quarter east of the Tevyern
+Flavor: a smaller and quieter den, the floor and tables are kept clean. Neia likes to chat with the patrons who are usually regulars. 1cp entry
+
+**Dryukhin's Den**
+
+Owner: Dryukhin Fenleth
+Canon: no
+Location: south prostoi commercial area
+Flavor: larger, dirtier, louder den, that has a small fighting ring for martial artists
+
+**Den Menu**
+
+Shenchai
+Alfvheat Flatbread
+Occasionally, egg toast
+Occasionally, beetroot soup
+Occasionally, fish
+
+**Along the Tevyern Market Strip**
+
+Stray dogs beg the sellers for scraps and are left unanswered. Dirt scuffs beneath the boots of travelers on the cobble beneath. The stinking, sludge filled river flows behind the market stalls, carrying away the trash that is thrown into it.
+
+Stalls that hawk fresh shenchai to passers by, 3cp for a jugful or 0.5cp for a hemp paper cupful.
+
+Loaves of sourdough or stacks of flatbread for a cp.
+
+A large fish fry or bowl of warm beetroot soup for 2cp.
+
+Flour, vegetables, etc sold for low prices.
+
+You can buy a shaped wood and stone club from a weapons hawk for a steel, or a bronze knife for 2gp.
+
+Hemp fabric is sold for 1cp/square foot, or you can buy a simple set of hemp clothes for 5sp. A hemp-and-straw mattress is 1gp.
+
+Horn/wood farm implements are sold for a few copper, and bronzed ones go for 2gp each. Fishing gear sells for a few steel. Cooking implements go between a steel and three gold.
+
+Sham treatments for city plague (sacred water) and consumption (a murky mucilage) go for a steel per dose.
+
+Clay pots and jugs sell for a half-steel each. Hemp bags and backpacks go from 1 to 4sp depending on the size.
+
+Rope sells for 8sp/50ft.
+
+**Inside the Government Quarter**
+
+The House of Scribes
+Jur Tuyevka Guard Command and Armory
+Jur Tuyevka Court
+National Treasury of Ebrana
+Scribal Offices...
+Office of Tax Collection
+Office of Diplomatic Affairs
+Office of Maritime Affairs
+Office of Property Development
+Office of DP and Far Juris Affairs
+Office of Codes and Standards
+Office of Agriculture and Prostoi Affairs
+Tuyevkapol City Jail
+Gallows
+
+The Tuyevka encampment is just off the map to the south, on the east side of the Tevyern river.
+
+**Nordovdom** 
+
+Owner: Zyomiy Nadia Nordov
+Canon: no
+Location: east of the Tevyern, near the estate
+Flavor: managed by the Nordov dynasty, this small branch of the family has managed to weather tough times. While the Nordovs have little business to discuss in Tuyevka, smaller merchant families still patronize this customs house. The common area is built with lots of windows to let in natural light, and the wine has a particular tart flavor that no other customs house can replicate.
+
+**Sarjordom**
+
+Owner: Yukhriy Sarjor
+Canon: no
+Location: just on the west side of the Tevyernopol bridge
+Flavor: one of the largest customs houses, this establishment charges lofty prices but prides itself on its beautiful venue, delicious food, and excellent service. Food is served on golden platters and wine in gem-encrusted steel goblets. The house has a tiered design with arching stone buttresses. It is managed by Shikovras Sarjor's youngest daughter.
+
+**Keyfirdom**
+
+Owner: Artur Keyfir Eugeni
+Canon: no
+Location: far west kommersant commercial zone south of the Keyfir estate
+Flavor: this customs house rises up above the other buildings, offering outdoor seating with an excellent view of the open ocean. In addition to traditional Kommersant fair, shenchai and some traditional Prostoi foods are offered as sides.
+
+**The Truespear Company**
+
+About 150 mercenaries
+
+11x7 = 77 Galliers (naval assault forces)
+8 Sarjor retinue (personal bodyguards of Shikovras, now Nashka)
+4 cloaks (spys, assassins)
+10 Potrasti /Shock Trooper Specops (special forces)
+36 general duty
+15 Guard Specops
+
+**Artermierdom**
+Owner: Abdulov Lavrenti Artermier
+Canon: yes
+Location: just east of the seat of government
+Flavor: one of the larger and more busting customs houses, this establishment is a favored meeting place for parties seeking neutral ground. It features plush booths with soundproofing to effectively fit more patrons into the building without compromising confidentiality.
+
+**Merkuchev's Fine Fabrics and Tailoring**
+
+Owner: Shastin Merkuchev
+Canon: no
+Location: central Kommersant commercial zone
+Flavor: lower Kommersant owner with Prostoi servants. Shastin is a quick smile and likes to compliment all his patrons to get them to buy more. You can buy any kind of fabric or clothing here for a fair price.
