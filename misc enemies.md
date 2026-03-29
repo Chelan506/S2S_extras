@@ -43,7 +43,7 @@ Warrior's axe: +8, 1d10 + 6 slashing, 5ft range
 **Kastoro**
 Medium Human
 XP: 7000
-HP: 190
+HP: 150
 AC: 16 (mage armor)
 Speed: 30ft (60ft with flight)
 Proficiency bonus: +5
