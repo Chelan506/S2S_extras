@@ -197,14 +197,14 @@ Specialty items include items available through Kommersant doctor's offices, blo
 | Tincture of Opium               | 10gp |
 ```
 #### Blood dealer items
-
+```
 | Item                   | Cost  |
 |------------------------|-------|
 | Poison, basic          | 150gp |
 | Potion of Invisibility | 150gp |
 | Kit, forgery           | 45gp  |
 | Kit, poisoner's        | 100gp |
-
+```
 #### Curator items
 The curator travels as she pleases. Roll a D20 to determine her location. The curator stays in a location for one week before moving elsewhere. 
 ```
