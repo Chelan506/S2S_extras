@@ -161,22 +161,22 @@ can dash **5** times, afterwards, DC10 con check or exhaustion
 when con checks start coming, half the guards slow by half each time
 
 When turning into a new block, roll 1d8
-
+```
 1: crowded street, 3 ebranan mercenaries
 2: normal street, 5 guards (club)
 3-5: crowded street
 6-8: normal street
-
+```
 crowded: advantage on stealth check (DC 12)
 
 If surviving guards got within 15 feet of the players, they will all get wanted posters with sketches put up in the city. Kolskegg will be permanently unsafe. In Slanik and Tispol, players will be recognized by guards 50% of the time.
-
+```
 Limits of guard involvement:
 1d4 Szoldar mercs arrive on scene every minute, to a limit of 50
 1d8 city guards arrive on scene every minute, to a limit of 150
 
 If the players hole up somehow, a squad of 10 szoldar specops (shock troops) will arrive
-
+``` ```
 complication table:
 1: auroch cart. DC15 acrobatics or get slowed by 10 feet
 2: crowd, DC10 ath or acro or get slowed by 10 feet
@@ -188,3 +188,4 @@ complication table:
 8: unseen guard skids into view with a heavy spear, will make opportunity attack
 9-19: nothing
 20: the guards get tangled up with a blood dealer agent, and waste a turn dealing with him
+```
