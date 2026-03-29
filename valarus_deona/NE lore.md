@@ -783,3 +783,227 @@ Owner: Shastin Merkuchev
 Canon: no
 Location: central Kommersant commercial zone
 Flavor: lower Kommersant owner with Prostoi servants. Shastin is a quick smile and likes to compliment all his patrons to get them to buy more. You can buy any kind of fabric or clothing here for a fair price.
+
+## Morbidity, Mortality, and Life Expectancy
+
+Life expectancy is drastically lower for the peasant class compared to the merchant class. The greatest driver of mortality is communicable disease. Cholera is the greatest killer in Tuyevka and Kolskegg; elsewhere, it is tuberculosis. Infant mortality is high for the lower class. 38% are dead by age 5, and 43% are dead by age 18. 90% of the deaths of children occur due to communicable disease. Children (like everyone else in Ebrana) almost never starve, except perhaps for very poor families in the far north of Jur Doleka.
+
+A peasant who has survived to adulthood can typically expect to live into their 50s or 60s, though debility is common due to the consequences of years of farm labor. Older peasants frequently have spine problems. Peasants of all ages are afflicted with mental illness; if their family cannot take care of them, they typically end up in prison where they may be executed if the family does not pay for their release.
+
+The second most common cause of death in employed peasants is workplace accidents. Hundreds of North Ebranan peasants drown at sea every year, as it is cheaper for the ship owners to hire more peasants than it is to implement safe procedures. Farmers are also occasionally injured or killed by their animals or equipment. (Mechanical threshers are common, and are extremely easy to get fingers caught in, leading to infection and death).
+
+Medical care in North Ebrana is offered on a strict pre-payment system and is out of reach to peasants. Merchants, however, make liberal use of doctors. Medical care for the upper class is reasonably sophisticated. Doctors understand the importance of cleanliness, though they do not understand germ theory. Obstetricians reduce infant mortality to a fraction of what is seen in the peasant class. Cholera is managed by sourcing clean water from protected springs, often at great expense. Personal apothecaries to merchants offer herbal antibiotics that can slow the progression of tuberculosis, but not cure it.
+
+## Clothing and Style
+
+Upper class North Ebranans enjoy accumulating large wardrobes of expensive clothing as a way to show off their wealth and power. Often, the more impractical the design, the better—as it would be unbefitting of a merchant to have to lift a finger anyways. Their clothing is made of silk or linen. Shoes and fittings are leather. Dyes of every color are available to the rich, and individual dynasties often associate themselves with a shade—for example, ultramarine blue is the house color of the Sarjor dynasty. Men and women wear the same clothes, the only differentiator is the status of the individual. Hats are common. One example of a merchant outfit would be a long silk dress with intricate lace, and sleeves that fall almost to the floor, with a silk hat or perhaps a circlet made of Deonic steel. Makeup and face paint is common. It's typical for dynastic merchants to wear something akin to eyeshadow in their dynastic color.
+
+The servants of merchants typically wear simple, clean clothes of linen. They are required to turn in the clothes before leaving work.
+
+Lower class North Ebranans have great difficulty finding enough clothing, especially in the north where it is colder. The climate is not appropriate to grow jute, there are no sheep for wool, and both linen and leather are too expensive. Instead, they grow hemp. Unlike most of the products of the peasantry, hemp is not typically sold at market, and instead individual homesteads grow their own hemp for cloth making. However, the processing is time consuming, and so fabric is usually in short supply. Often the children help with fabric processing until they are old enough to work the fields. A typical peasant outfit would be a tight hemp shirt, hemp pants, and wooden sandals. In the north, some peasants manage to tailor jackets and even gloves, but others just have to steel themselves against the cold.
+
+Wood elves in north Valarus typically have curly hair, while those in south Valarus typically have wavy. (This distinction crosses political borders.) In North Ebrana, merchants frequently trim and style their hair, while longer and simpler styles are more common among peasants.
+
+## Culture
+
+Merchants love to collect art and artifacts, to decorate their homes and to show off their wealth and power. They also collect magical items (which are extraordinally rare in Valarus.) Many merchants practice musical intruments, which are typically custom ordered from peasant artisans. The most common instrument to be played is a bronze flute, typically tuned to E minor. Harps are also common.
+
+In Tuyevka, there is an art museum, that was original created by the Keyfir dynasty but has received support from the Sarjor dynasty. It is considered the height of North Ebranan society and is a popular place for visiting merchants.
+
+In peasant circles, nobody has the resources to spare for instruments, but people still enthusiastically sing and dance. Families often have songs that detail the history of their family line, often with some embellishment. Older peasants tell stories at night to entertain the younger, and dancing is seen as a way to preserve one's vitality.
+
+## Culinary
+
+The culinary culture of the merchant class is incredibly varied and rich. Merchants typically employ many servants as cooks, who prepare every imaginable dish. There is not a particular staple food, but the most commonly served dish is steak.
+
+The two most common drinks are spring water and a spiced drink similar to root beer, albeit without carbonation. The common word for "wine" refers to this drink, but it is non-alcoholic. 
+
+The staple food for peasants is alfvheat bread. Different families make their bread in different ways, but flatbreads and sourdoughs are most common. Chickens are raised for eggs, providing protein for the farm laborers. Unsold fruit, usually pears, plums, or sour cherries, are also consumed in small quantities by the lower class. Many homes also cultivate small vegetable gardens for personal use. Along the coast, fish are commonly eaten.
+
+On farmsteads, extra alfvheat is brewed to make a drink analogous to barley tea (шенчай, shenchai), which is consumed frequently in winter. Fruit that does not sell is sometimes pressed into juice, but this is less common.
+
+A common meal for a North Ebranan peasant would thus be flatbread toast with egg, a side of unsold fruit or something from the vegetable garden, served with schenchai or water.
+
+Alcohol is absent from the diet of both peasants and merchants, except in secret vices for the latter class.
+
+## Philosophy
+
+North Ebranans believe that gods exist, but are impartial to the matters of most mortals. They do not hold particular reverence to gods, or observe religious traditions. Peasants occasionally make reference to Proshle, which they regard as the patron god of farmers, and merchants occasionally make reference to Zolot, which they regard as the patron god of traders. North Ebranans believe that the afterlife is similarly segmented; merchants go to Celestia, while peasants are lost in the Ethereal Plane. North Ebranans believe that the world was created from a drop of water that fell from Celestia, and they believe that it will continue to fall forever. The moon and planets are other drops of Celestia, and the sun is the embodiment of the god Mora.
+
+Tradition and commerce are valued. North Ebranans believe that everyone has their place in life, and that merchant dynasties deserve to rule by birthright.
+
+## Currency
+
+GP: gold pieces, minted with gold bought from Deona as Valarus doesn't have gold naturally. On one face, an image of the House of Scribes, which gives them their colloquial name—"scribes." The other face displays two crossed spears. The coins are circular and ridged. Sometimes merchants from Ulfos will bring some foreign GP into Ebrana.
+
+SP: steel pieces, minted with steel bought from Deona. These pieces are hexagonal and scored on one side, otherwise unmarked. Referred to as "steels".
+
+CP: copper pieces, minted with copper mined in Ebrana. These coins are what the Prostoi use. They are rough hammered circles, with a small hole in the center, and it is deeply scored. The metal is soft and the coins can be split into half-copper pieces with ones hands. They are otherwise unmarked.
+
+## North Ebranan Universities
+
+All North Ebranan cities except Oravansk and Dzernia have universities. They follow a common naming scheme: universities constructed under the monarchy are the Solzhenitsyn Institute of ${city}, and universities constructed under the republic are the Sarjor Institue of ${city}, except for the Mikhalsyn Institute of Ziapava which was constructed in 481 PM during the brief reign of the Mikhalsyn dynasty.
+
+While named universities, they actually handle education of young ruling class individuals from age 12 to 19. The primary focus of education is command of Common, through studies of literature, art, history, business, economics, etiquette, trade logistics, bookkeeping, etc. Specific courses for those pursuing careers as naval officers exist. 
+
+The universities exclude commoners via fees and requirements that parents know Common.
+
+**Ebranan terminology:**
+Kommersant (комэрсант)—the upper class, traders, nobles
+Prostoi (простой)—the lower class, farmers, peasants
+Alfvheat (алфеит)—grain. Alfvheat is similar to wheat but with a sea-blue shade.
+
+Culturally, the paternalistic and accepting mindset of the North Ebranan peasantry is most common in the northwest. Obviously, in the south people lean more towards bureaucracy, but in the eastern reaches of North Ebrana there is more of an independent mindset. Crime is higher in this area, and there are even some attempts at tax evasion and labor organization. (Guilds in the east have higher membership and maintain some power.) The ruling class deals with this problem by exerting influence on the town guards.
+
+In the old days of the Solzhenitsyn dynasty, guilds existed to represent the peasants' dealings with merchants. These were encouraged by the monarchy to keep merchants in check. These included the wheat farmers guild', the builders' guild, the sailors' guild, the shephards' guild, etc. After the Sarjor dynasty took over, these guilds were demonized as symbols of South Ebranan collectivism. Membership has since drastically fallen, and most guilds exist only on paper. The guilds that still operate are run with heavy merchant influence, and typically set rules and regulations that peasants must follow to do business.
+
+**Potions of Healing**
+
+Potions of healing are very rare and expensive. The magical plants needed to make them only grow naturally in the very north of Valarus, near Oravansk. They are available in limited quantities through specialty dealers, at 5-10x the normal price.
+
+Only a small group, known as the apothecaries, knows how to harvest the xerigium and brew the potions. They are somewhat isolated from the rest of Ebranan culture. Merchants intentionally keep them away from the rest of the world so that they do not discover the true value of their work. The production of potions is an immensely valuable trade secret.
+
+## North Ebranan Holidays
+
+Holidays vary by region. They can be roughly divided into three groups: Jur Tuyevka/Zopot/Perek/Morya tradition (TZPM); Jur Kolskegg/Vanaya/Arasensk tradition (KVA); and Jur Tsents/Vostok/Krul/Doleka tradition (TVKD).
+
+**TZPM:**
+14:1m—Hearthday (Харщден)
+1:5m—Eve of Spring
+4:8m—Republic Day
+
+Hearthday welcomes the new year. The nights are cold, and so it is customary to build large bonfires to gather around and share shenchai and stories. In the cities,  merchants organize large festivals with free food and drink to appease the peasants, who take turns throwing wood into the flames.
+
+The Eve of Spring is a family holiday held during a prosperous time, as spring turns into summer. Merchants sponsor the hanging of colored cloths from buildings across town, and both peasant and merchant musicians wander the streets playing music to anyone who will pay attention. Food is plentiful; Eve of Spring dinner is analgous to Thanksgiving dinner with one of the main dishes being specially baked sourdough. Peasants hawk bouqeuts of brightly colored flowers to merchants in the street.
+
+Republic Day celebrates the transformation of North Ebrana from a kingdom to a republic. The Master of the House holds a great speech in Tuyevka, while scribes travel to Slanik, Tispol, and Ceazina. After the speech is complete, barriers between merchant and peasant fall for a brief moment as a great conflagration of song, dance, and good times engulfs the cities.
+
+**KVA:**
+1:5m—Day of Remembrance
+13:9m—Army Day
+28:13m—Sevyern's Rebirth
+
+The Day of Remembrance commemorates the Burning of Kolskegg in 511 PM, which occured on the Eve of Spring (1:5m). It's generally only celebrated in Kolskegg. Throughout the day, a fast is observed, and elders relate the story of the fire to children. The town guard makes fire safety rounds (Kolskegg is the only city in North Ebrana where anything like this occurs.) After dusk, a small feast is held.
+
+Army Day honors the might of the Ebranan army and celebrates its victory over South Ebrana. Parades and street foods are common. It is a very jovial holiday.
+
+Sevyern's Rebirth is a traditional holiday dating from before Ebrana was a country. It is celebrated in the southern cities, along the Sevyern river.  Celebrators immerse themselves in the river current, believing that its power will whisk away the old and bring in the new. It's customary to walk the streets afterwards, calling out to strangers, and meeting new people.
+
+**TVKD:**
+3:3m—White Peace Vigil
+13:7m—Ebrana Day
+7:10m—Festival of Slaughter
+
+The White Peace Vigil is a clandestine holiday among the eastern peasants, unrecognized by the government, that hopes for the end of conflict between North Ebrana and the Eastern Tribes. It's customary to go about the day in a quiet demeanor, and for each member of a family to take turns planting a seed in a garden.
+
+Ebrana Day is the official holiday celebrating the anniversary of the annexation of Jur Krul to North Ebrana. The Dzernia encampment organizes military marches in the cities. Military and government officials, as well as local oligarchs, pass out free food, cloth, and even coin to buy the complacency of the population. At home, families usually get together to share a jar of shenchai and tell stories, often featuring folk heroes from the Solzhenitsyn days.
+
+The Festival of Slaughter is celebrated by slaughtering an auroch and holding a feast with the meat. It is customary to exhange small gifts, usually items carved from auroch bone or ivory. Relatively better off peasants with herds of aurochs typically hold festivals for the surrounding families.
+
+## North Ebranan Prisons
+
+North Ebranan law designates three categories of punishment:
+
+For merchants, fines and house arrest
+For peasants deemed capable of manual labor, slavery
+For peasants deemed incapable of manual labor, or if no more slaves are needed, death
+
+In very few cases do prisoners simply rot in a cell. Rather, once a conviction is made, they are either marched off to be hanged or are branded a prisoner (circle brand on the forehead) and slave for a number of years. They will go to a prison facility to receive an assignment.
+
+Prison slaves are either used directly by the government for municipal work (clearing roads, cleaning trash, building bridges, setting up and breaking down holiday displays) or they are leased at bargain prices to companies, who commonly use them for farming, logging, or construction.
+
+There are three main prison facilities: one in the south of Jur Tuyevka, one on the border between Jur Vanaya and Jur Arasensk, and one in Kartov. Additionally, each city has holding facilities for local criminals that can also accommodate slaves passing through. Smaller waystations dot roads and fields where slaves are often put to work.
+
+Prisoners are kept in line by armed guards, tight hemp rope bonds, the knowledge that their brand would mark them as a prisoner were they to escape, and North Ebranan culture.
+
+There are some 10,000 slaves in the prison system, and this number is constantly rotated because the slaves have a life expectancy of only a year or two, compared to prison sentences of sometimes decades. Only 5-10% of prisoners sentenced to slavery survive their sentence; the rest are crippled by the harsh conditions and are then executed for failing to meet manual labor requirements. The lucky few who survive receive an additional brand on the forehead marking them as a released prisoner.
+
+## Third Places
+
+Merchants, particularly in larger cities, have a large variety of libraries, museums, parks, restaurants, etc. to peruse. A very common sight, even in smaller towns, is the customs house; an establishment for merchants to meet in polite company and discuss business. These normally serve Ebranan wine and light snacks.
+
+For peasants, options are more limited. In cities, establishments known as "dens" offer respite for a tired laborer. There is typically a charge to enter (1cp, or a favor) and shenchai and bread is served for free inside. They are raucous, smoky, full of people laughing and sharing stories. Rumours, mostly baseless, can be frequently heard here. A favorite activity of the peasants is gambling. They commonly play an unnamed dice game that goes something like so: each player puts a cp in the pot. Everyone rolls 3d6; the result is the low value (rolling low is better). At this point, each player can choose to give, forfeiting their cp, or they can match (add another cp) and roll again. If they roll lower than the low value, they are out and forfeit their money. If they roll higher, the roll becomes the new low value. This cycle repeats until only one person is standing (who gets everything) or all remaining players fail to meet the low value at once (in which case the pot is split.)
+
+There are also fighting pits throughout cities. Some Prostoi martial artists are able to earn a living just through fighting, but even the best of the best earn only a meager keep—there is not enough money going around the peasant quarters to support them.  North Ebranan martial arts is something like boxing, with a focus on lightfootedness, evasiveness, and precise strikes.
+
+## The Curator
+
+Anisliy Milyena, from Ceazina, is the Curator. She has made a name for herself as a rare items dealer. She runs a caravan that travels from city to city. She deals in art, rare books, artifacts, magical items, and sometimes information. Occasionaly healing potions.
+
+## Disease mechanics
+**Cholera:**
+Every week that a character spends drinking contaminated water (any well water in a Ebranan city, any river downstream of an Ebranan city) they must make a DC 5 CON saving throw. On a failure, they contract cholera.
+
+A character with cholera feels sick and experiences nausea, lethargy, and diarrhea. They gain one level of exhaustion. After every rest, they must make a DC 12 constitution saving throw. On a failure, they gain a level of exhaustion. On a success, they lose a level of exhaustion, and the DC for the next saving throw decreases by 1.
+
+A character can gain advantage on their cholera saving throw if they are hydrated with large amounts of pure water. This treatment is only known to doctors that serve the merchant class. Peasant witch doctors recommend herbal remedies that are ineffective. Cholera can also be cured with a lesser restoration spell.
+
+Cholera is known as town-plague (городболезнь) in Ebrana. It is more common in North Ebrana than South Ebrana due to differences in sanitation. It is known as water sickness in Lazir. Deon are not susceptible to cholera and do not have a word for it. Cholera is not common in the eastern tribes.
+
+**Tuberculosis:**
+Every time a character spends a day in very close proximity to peasants (sleeping in a crowded bunkhouse, muscling through a crowd for several hours, working on a tight packed ship, etc) they must make a DC 5 CON saving throw. On a failure, they contract tuberculosis. On a success, they do not need to make another saving throw for another week.
+
+A character who contracts tuberculosis must make a DC 10 CON save. Upon a success, they are infected with asymptomatic TB. They are colonized by the bacteria but do not experience symptoms and the infection cannot progress further. Upon a failure, they experience stage one TB.
+
+Symptoms of tuberculosis take 1d4 days to manifest. A character with tuberculosis experiences lethargy, a persistent cough, and loss of appetite.  Characters with tuberculosis have disadvantage on strength and constitution checks.
+
+Once in each week of downtime, a character with TB must roll 1d20. On a 1 or 2, their TB advances to the next stage. If they have been taking herbal remedies, TB advances only upon rolling a 1.
+
+The stages of TB are as follows:
+
+Stage 1: disadvantage on strength and constitution checks.
+Stage 2: disadvantage on strength and constitution checks. Maximum hit dice decreased by one. Cannot take the dash action.
+Stage 3: level one exhaustion (disadvantage on ability checks). Maximum hit dice decreased by two. Cannot take the dash action.
+Stage 4: level two exhaustion (disadvantage on ability checks, movement speed halved, disadvantage on attack rolls). Maximum hit dice decreased by three. Cannot take the dash action.
+Stage 5: level three exhaustion (disadvantage on ability checks, movement speed halved, disadvantage on attack rolls, max HP halved). Maximum hit dice decreased by four. Cannot take the dash action.
+Stage 6: level four exhaustion (disadvantage on ability checks and saving throws, movement speed halved, disadvantage on attack rolls). Cannot expend hit dice. Cannot take the dash action.
+Terminal: incapacitated. Must make a DC 10 constitution saving throw every 24 hours. The character dies upon a failed saving throw.
+
+Exhaustion caused by TB cannot be removed by rests. TB can only be cured by restoration magic. Molecules effective for the treatment of TB exist but have not been discovered by any extant civilization.
+
+TB is known as consumption in North and South Ebrana. It is known as ascendance in Lazir, as only ascendants are granted the magical treatment needed to cure it. Deon are susceptible, but almost always recover; it is known as a common cold in Deona. It is rare in the eastern tribes.
+
+## Climate
+
+**North Ebrana**
+Northeast: cold, mix of plains and evergreen forests. Aurochs are from here and wild ones can still be found. Ranching and cash crops are more common than wheat cultivation due to lack of year-round growing.
+Northwest: very cold, evergreen forests. Wolves are common. Similar climate to southern Deona. It is very hard to grow crops here, and is one of the only places in North Ebarna where hunger exists.
+Southeast: temperate, mostly shrublands with fertile soil. Tall, solitary trees were common but have mostly been cut down and replaced by farmland. Wild boar used to be common but have been largely displaced.
+Southwest: temperate to cold, mix of shrublands and deciduous forests (which have been mostly deforested and replaced by farmland, particularly near Kolskegg.) Elk and aurochs live here.
+
+**South Ebrana**
+Northeast: temperate, mostly shrublands with fertile soil. Tall, solitary trees were common but have mostly been cut down and replaced by farmland. Wild boar used to be common but have been largely displaced.
+Northwest: temperate to warm, mix of shrublands and deciduous forests (which have been partially deforested and replaced by farmland.) Elk and aurochs are common here.
+Southeast: warm mix of plains and shrublands, hilly with poor soil quality. Tapir and horses common here.
+Southwest: warm and mountainous, contains the mountain peak on the flag, mountain lions and hares are common here
+
+**Lazir**
+Mix of deciduous forests and shrublands, coyotes and tapir are common
+
+**Eastern Tribes**
+Sudryal: cold, evergreen forests
+Khiiral: taiga in the north, plains in the south
+Qimari: warm shrublands, fertile soil that is coveted by both North and South Ebrana
+Talanashta: heavily forested
+Bimaer: low elevation, swampy
+Caizer: hilly/mountainous, plains
+
+**Auroch**
+```
+Large Beast
+XP: 250
+HP: 30
+AC: 11
+Speed: 30ft
+
+STR: 16 (+3)
+DEX: 10 (0)
+CON: 17 (+3)
+INT 3 (-4)
+WIS 12 (+1)
+CHA 9 (-1)
+
+Attacks:
+Ram: +4 to hit, 2d6 + 2 bludgeoning damage.
+If the auroch moves at least 20 feet straight toward a creature and then hits it with a ram attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. The auroch rolls an extra damage die for the attack.
+```
