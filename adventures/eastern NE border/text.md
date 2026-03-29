@@ -20,11 +20,11 @@ Upon approach, a line of 10 arrows is shot 5 feet in front of the players as a w
 
 the fighters only speak sudryal valari. nazjieza speaks sudryal valari, bimaer valari, khiiral valari, and knows stumbling ebranan. 
 
-if the players can find a way to communicate with nazjieza, she will tell them /[information] nazjieza will give the players a clay tablet etched with the sudrayal symbol and notched along the edge. this is the captain’s blessing to travel through her lands
+if the players can find a way to communicate with nazjieza, she will tell them \[information] nazjieza will give the players a clay tablet etched with the sudrayal symbol and notched along the edge. this is the captain’s blessing to travel through her lands
 
-if the players go to dzernia seeking answers, they will (for a price) learn of a fixer who brings magical supplies to /[destination] via boat. he sails down the prostyl river in a small skiff and makes landfall on the western coast of khiiral lands. the locals there are friends with him. usually, fairies with magical strength will come to pick up the goods and deliver them back to the /[destination]. fixer is named Leshev Wachowski
+if the players go to dzernia seeking answers, they will (for a price) learn of a fixer who brings magical supplies to \[destination] via boat. he sails down the prostyl river in a small skiff and makes landfall on the western coast of khiiral lands. the locals there are friends with him. usually, fairies with magical strength will come to pick up the goods and deliver them back to the \[destination]. fixer is named Leshev Wachowski
 
-they can also ask the border guards. upon interrogating a guard, roll 1d6. on a 6, that guard was there when [person of interest] crossed the border, and knows that he was planning to go far to the east coast. 
+they can also ask the border guards. upon interrogating a guard, roll 1d6. on a 6, that guard was there when \[person of interest] crossed the border, and knows that he was planning to go far to the east coast. 
 
 when they reach khiiral lands, they will encounter fairies who speak nixian and khiiral valari. these can direct the players to /[destination]. most of the khiiral elves are on the coast and won’t encounter the players. 
 
