@@ -96,28 +96,17 @@ Cost before modifiers: 1 military influence per 4 soldiers sent
 
 **Standard**. Estimate the military influence of the target. Sample ranges are provided below.
 
-0: undefended commoner
-
-1: a minor noble with a bodyguard, a traveling party on a road
-
-2-4: a guard outpost, a bandit camp, a very tiny village, a low-mid level adventurer
-
-4-8: a small fortress, a small village, a powerful bandit gang, a mid-high level adventurer
-
-8-16: a fortress, a mid sized village, a platoon in an army, a small adventurer guild
-
-16-32: a large fortress, a small town, a company of an army, a mid sized adventurer guild
-
-32-64: a citadel, a mid sized town, a batallion of an army, a huge adventurer guild
-
-64-128: a large city, a small standing army
-
-128-256: a capitol city, a mid sized army
-
-256-512: a small nation
-
-512-1024: a mid sized nation
-
+* 0: undefended commoner
+* 1: a minor noble with a bodyguard, a traveling party on a road
+* 2-4: a guard outpost, a bandit camp, a very tiny village, a low-mid level adventurer
+* 4-8: a small fortress, a small village, a powerful bandit gang, a mid-high level adventurer
+* 8-16: a fortress, a mid sized village, a platoon in an army, a small adventurer guild
+* 16-32: a large fortress, a small town, a company of an army, a mid sized adventurer guild
+* 32-64: a citadel, a mid sized town, a batallion of an army, a huge adventurer guild
+* 64-128: a large city, a small standing army
+* 128-256: a capitol city, a mid sized army
+* 256-512: a small nation
+* 512-1024: a mid sized nation
 
 For monsters, you can also use the rule that 300xp = 1 military influence.
 
