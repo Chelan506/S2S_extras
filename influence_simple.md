@@ -82,7 +82,7 @@ You order a detachment of your soldiers to attack a target. The target can be a 
 
 Cost before modifiers: 1 military influence per 4 soldiers sent
 
-*Modifiers:*
+##### Modifiers:
 
 **Rush**. You send an urgent message to rally the troops. You must use this modifier if you wish to order an attack *during* an adventure and have it occur before the adventure ends. (You do not need to take this modifier if you order the strike at the *beginning* of the adventure, before leaving your base.) The influence cost of the strike is doubled.
 
