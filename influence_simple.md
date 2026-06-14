@@ -24,22 +24,18 @@ When using influence slots to take influence actions, you can take those actions
 
 For example, if you have 30 City influence and 10 Province influence, you can do any of the following things:
 
-use 40 influence slots within your City
-
-use 30 influence slots within your City and 10 within your Province
-
-use 25 influence slots within your Province (10 + 30/2)
-
-use 15 influence slots within your Province (30/2) and 5 influence slots within your Nation (10/2)
-
-or any other combination of those things. 
+* use 40 influence slots within your City
+* use 30 influence slots within your City and 10 within your Province
+* use 25 influence slots within your Province (10 + 30/2)
+* use 15 influence slots within your Province (30/2) and 5 influence slots within your Nation (10/2)
+* or any other combination of those things. 
 
 ## HOLDINGS
 
 When you buy a holding, you must specify the domain at which you buy it. If you are just starting out, only the City domain is available. If you wish to sell a holding (to liquidate your assets or to replace it with a different kind of holding), you can do so at one half of the buying price. 
 
 #### Military Holding
-
+```
 You buy land and construct a fortress or training ground. Soldiers stationed in this holding will fly your banner and fight in your name.
 
 Cost: 2500 GP, 1 Influence Capacity
@@ -47,9 +43,9 @@ Cost: 2500 GP, 1 Influence Capacity
 +4 Military Influence Slots
 
 +4 General Influence
-
+```
 #### Economic Holding
-
+```
 You buy a large farm or a high-end shop in town. The holding will generate income for you every week, and the manager can help you locate rare items for sale.
 
 Cost: 3000 GP, 1 Influence Capacity
@@ -57,25 +53,25 @@ Cost: 3000 GP, 1 Influence Capacity
 +4 Economic Influence Slots
 
 +4 General Influence
-
+```
 #### Diplomatic Holding
 
 You buy an estate and hire a staff of diplomats and spies to represent your guild. They can be tasked to negotiate with other factions or to uncover valuable information.
-
+```
 Cost: 2000 GP, 1 Influence Capacity
 
 +4 Diplomatic Influence Slots
 
 +4 General Influence
-
+```
 #### Influence Extender
-
+```
 You buy several small parcels of land over a wide area and set up satellite locations to coordinate far-away operations with your diplomatic holdings. You must have at least one diplomatic holding for every influence extender you buy. 
 
 Cost: 5000 GP
 
 +1 Influence Capacity at level n+1 for every 4 General Influence at level n
-
+```
 ## INFLUENCE ACTIONS
 
 ### Military
@@ -89,8 +85,10 @@ Cost before modifiers: 1 military influence per 4 soldiers sent
 *Modifiers:*
 
 **Rush**. You send an urgent message to rally the troops. You must use this modifier if you wish to order an attack *during* an adventure and have it occur before the adventure ends. (You do not need to take this modifier if you order the strike at the *beginning* of the adventure, before leaving your base.) The influence cost of the strike is doubled.
+
 **Covert strike**. You order your soldiers to act with subterfuge. If your soldiers are undiscovered, the party responsible for the attack will not be known. However, there is a risk of discovery and subsequent failure. This option is more effective with smaller scale attacks. The influence cost of the attack is doubled.
-Influence reach. Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
+
+**Influence reach.** Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
 
 *Adjudication:*
 
@@ -129,17 +127,12 @@ To calculate the modifier for the attack, start with 0. Divide the attacker's in
 
 Consult the table for the stealth modifier.
 
-1 influence: +5
-
-2-4 influence: +4
-
-4-6 influence: +3
-
-6-8 influence: +2
-
-8-10 influence: +1
-
-\>10 influence: 0
+* 2 influence: +5
+* 4 influence: +4
+* 6 influence: +3
+* 8 influence: +2
+* 10 influence: +1
+* \>10 influence: 0
 
 Roll 1d20 plus the modifier. The stealth DC is 10.
 
