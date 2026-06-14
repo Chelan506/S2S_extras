@@ -23,10 +23,15 @@ There is a limit to how much influence you can buy. Unless your GM says otherwis
 When using influence slots to take influence actions, you can take those actions within the domain that your influence applies in for no penalty. You can also take those actions at the domain one level higher, at a cost of doubling the influence slots required.
 
 For example, if you have 30 City influence and 10 Province influence, you can do any of the following things:
+
 use 40 influence slots within your City
+
 use 30 influence slots within your City and 10 within your Province
+
 use 25 influence slots within your Province (10 + 30/2)
+
 use 15 influence slots within your Province (30/2) and 5 influence slots within your Nation (10/2)
+
 or any other combination of those things. 
 
 ## HOLDINGS
@@ -38,7 +43,9 @@ When you buy a holding, you must specify the domain at which you buy it. If you 
 You buy land and construct a fortress or training ground. Soldiers stationed in this holding will fly your banner and fight in your name.
 
 Cost: 2500 GP, 1 Influence Capacity
+
 +4 Military Influence Slots
+
 +4 General Influence
 
 #### Economic Holding
@@ -46,7 +53,9 @@ Cost: 2500 GP, 1 Influence Capacity
 You buy a large farm or a high-end shop in town. The holding will generate income for you every week, and the manager can help you locate rare items for sale.
 
 Cost: 3000 GP, 1 Influence Capacity
+
 +4 Economic Influence Slots
+
 +4 General Influence
 
 #### Diplomatic Holding
@@ -54,7 +63,9 @@ Cost: 3000 GP, 1 Influence Capacity
 You buy an estate and hire a staff of diplomats and spies to represent your guild. They can be tasked to negotiate with other factions or to uncover valuable information.
 
 Cost: 2000 GP, 1 Influence Capacity
+
 +4 Diplomatic Influence Slots
+
 +4 General Influence
 
 #### Influence Extender
@@ -62,6 +73,7 @@ Cost: 2000 GP, 1 Influence Capacity
 You buy several small parcels of land over a wide area and set up satellite locations to coordinate far-away operations with your diplomatic holdings. You must have at least one diplomatic holding for every influence extender you buy. 
 
 Cost: 5000 GP
+
 +1 Influence Capacity at level n+1 for every 4 General Influence at level n
 
 ## INFLUENCE ACTIONS
@@ -87,16 +99,27 @@ Influence reach. Standard modifier for extending your influence to a higher leve
 **Standard**. Estimate the military influence of the target. Sample ranges are provided below.
 
 0: undefended commoner
+
 1: a minor noble with a bodyguard, a traveling party on a road
+
 2-4: a guard outpost, a bandit camp, a very tiny village, a low-mid level adventurer
+
 4-8: a small fortress, a small village, a powerful bandit gang, a mid-high level adventurer
+
 8-16: a fortress, a mid sized village, a platoon in an army, a small adventurer guild
+
 16-32: a large fortress, a small town, a company of an army, a mid sized adventurer guild
+
 32-64: a citadel, a mid sized town, a batallion of an army, a huge adventurer guild
+
 64-128: a large city, a small standing army
+
 128-256: a capitol city, a mid sized army
+
 256-512: a small nation
+
 512-1024: a mid sized nation
+
 
 For monsters, you can also use the rule that 300xp = 1 military influence.
 
@@ -107,11 +130,16 @@ To calculate the modifier for the attack, start with 0. Divide the attacker's in
 Consult the table for the stealth modifier.
 
 1 influence: +5
+
 2-4 influence: +4
+
 4-6 influence: +3
+
 6-8 influence: +2
+
 8-10 influence: +1
->10 influence: 0
+
+\>10 influence: 0
 
 Roll 1d20 plus the modifier. The stealth DC is 10.
 
