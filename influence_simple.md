@@ -2,6 +2,8 @@
 
 The influence system is an optional rule in S2S that formalizes the large scale acquisition of wealth and political power. It defines how powerful an adventuring guild is, independent of the combat prowess of its actual adventurers. The influence system operates across various domains, from the smallest villages to entire planets. The influence system is good for groups who enjoy political games, long term power scaling, and the interacting with the game world. It is not good for groups who prefer a focus on game balance, combat, and the journey of a lone band of heroes.
 
+[This spreadsheet can be used to keep track of your holdings and influence.](https://docs.google.com/spreadsheets/d/1s1hLqJW0dc8jWIaone807tDiubQNjvdqNuYCgu4clwI/edit?usp=sharing)
+
 ## SIMPLE AND COMPLEX INFLUENCE
 
 The influence system comes with two sets of rules, the simple rules and complex rules. You are reading the simple rules, which are designed to be straightforward and to need less recordkeeping. However, they are less powerful than the complex rules. More than likely, unless you have the same flavor of autism as me, you will have no need or desire to read the complex rules. But they are made available just in case.
@@ -163,6 +165,8 @@ Unlike other influence actions, it is not possible to spend extra influence to a
 ### Economic
 
 #### Pay Out Gold
+
+For every 1 influence spent paying out gold, 150 GP of profit is made. The players should decide in advance whether they would like these profits to be distributed equally among players or to be deposited in a common guild fund for future developments. 
 
 #### Purchase an Item
 
