@@ -90,7 +90,7 @@ Cost before modifiers: 1 military influence per 4 soldiers sent
 
 **Influence reach.** Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
 
-*Adjudication:*
+##### Adjudication:
 
 **In session.** If the ordered attack occurs in a session, each point of military influence equals four soldiers (use the Foot Soldier statblock) who will obey the orders of the players. In a covert attack, each point equals two soldiers with expertise in stealth.
 
@@ -127,11 +127,38 @@ Roll 1d20 plus the modifier. The stealth DC is 10.
 
 If the stealth check succeeds, roll for the attack as in a standard attack, but make the roll with advantage. Nobody will know who was responsible for the attack, whether it is successful or not. If the check fails, the responsible party is revealed, and the attack roll is made with disadvantage.
 
-*Aftermath:*
+##### Aftermath:
 
 If an attack fails, the target will shore up its defenses. Apply a -1 modifier to the next attack on the same target; this is cumulative with multiple failures. Remove the modifier if the guild finds a way to attack in a new or different way. If the attack succeeds, the guild may do as it wishes with the subdued target. It may be destroyed, looted, forced out of its home, etc. If appropriate, the GM may allocate a gold reward to the guild representing looted items. 4-10 GP per influence of the target is suggested.
 
-#### Patrol a Location
+The players may order their soldiers to do illegal things or to attack targets that are important to other factions. Consider the power and interest of the higher level domains, and decide how they will respond. You can have the players' military holdings attacked, have their base raided, or have forces attempt to arrest a player during a session.
+
+#### Patrol an Area
+
+You order a detachment of soldiers to patrol an area. The area can be as small as a single building or as large as the detachment's entire domain. The soldiers will follow your orders, so it is up to you what they do while on patrol. You can order them to attack certain people on sight, prevent access to an area, shake down civillians for coin, enforce local laws—anything you want, though you will be held responsible for their actions. One common thread is that they will always report back to you about anything noteworthy in their patrol area.
+
+##### Detemining a patrol area:
+
+You can decide how widely spread you want your soldiers to be. You can cover more ground by spreading them thin, but if there's troble, they will be less able to respond with force. Your options are as follows:
+
+* **Entire Domain.** Your City soldiers will patrol the entire city, your Province soldiers will patrol the entire province, etc.
+* **Subdomain/Domain part.** Your City soldiers will patrol a single neighborhood. Your Province soldiers will patrol a single city, or a single part of the province.
+* **Location.** Your soldiers, regardless of domain, will be stationed at a single location.
+
+Unlike other influence actions, it is not possible to spend extra influence to allow soldiers to patrol outside of their domain.. 
+
+##### Adjudication:
+
+**In session.** Use your best judgement to determine where guards will be if the players travel to a patrolled location. Some rules of thumb:
+* If the players travel to a Location where guards are stationed, all of the guards should be there.
+* If the players travel to a Subdomain where guards are patrolling, around 1/2 to 1/4 of the guards should be in the players' immediate area during any given time. So, if 3 influence was spent to patrol a neighborhood of a city, between 3 and 6 guards should be present if a fight were to break out in that area.
+* If the players travel to a Domain where guards are patrolling, around 1/8 to 1/16 of the guards should be in the players' immediate area during any given time. So, if 5 influence was spent to patrol a Province, 1 or 2 guards should be present if a fight were to break out in that area.
+
+**Intelligence.** If there is important information that is obvious to the eye of an unknowing observer, it is always reported to the guild. If there is information that is not obvious, but can be discerned with some luck or skill, roll a D20 plus 0 for Entire Domain patrols, plus 2 for Subdomain patrols, and plus 5 for Location patrols. The DC for finding and reporting the information is 10 (or some other number if you feel that is appropriate for the information at hand.)
+
+**Encounters.** If a hostile force enters the patrolled territory, the soldiers will attempt to attack and drive away the force. Determine the intruders military influence per the examples in the Order a Strike action. Then, take the influence spent on patrolling the area. Halve it if the area is an Entire Domain. Double it if the area is a Location. If the patrollers' adjusted influence is equal to or higher than the influence of the intruding force, the intruders are driven off and the incident is reported to the guild. If it is lower than the influence of the intruding force, the patrollers are forced to retreat and the intruders may act with impunity.
+
+**Law.** The players may order their soldiers to do illegal or unpopular things while on patrol. Consider the power and interest of the higher level domains, and decide how they will respond. You can have the players' military holdings destroyed, have their base raided, or have forces attempt to arrest a player during a session.
 
 ### Economic
 
