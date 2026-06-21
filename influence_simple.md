@@ -16,7 +16,7 @@ Influence slots are shared by the entire guild. Any member may contribute gold t
 
 Influence Capacity is a representation of how far your influence can stretch. It is provided by Influence Extender holdings, and is necessary to build holdings at levels higher than City.
 
-# DomainS
+# DOMAINS
 
 Your influence varies by location. The Domains are City, Province, Nation, Continent, and Planet. You start by buying holdings at the City level, which increases your influence only within the city. Once you have enough influence, you can spend it in exchange for the ability to buy holdings at a higher level Domain. So, once you have enough influence at the City level, you may expend it to gain influence at the Province level, and this can continue recursively.
 
@@ -203,7 +203,7 @@ Cost before modifiers: variable
 
 #### Adjudication:
 
-**Negotiation checks.** The general format of a negotiation check is as follows: first, you as the GM must set a base DC for the type of negotiation. Then you must modify the DC depending on preexisting relations. Add a penalty if the specific negotiation in question has been failed before. Then, roll 1d20 and add a modifier according to the amount of infuence used for the negotiation. This modifier is affected by diminishing returns—reference the following table for specifics.
+**Negotiation checks.** The general format of a negotiation check is as follows: first, you as the GM must set a base DC for the type of negotiation. Then you must modify the DC depending on preexisting relations. Take into account any bargaining chips. Add a penalty if the specific negotiation in question has been failed before. Then, roll 1d20 and add a modifier according to the amount of infuence used for the negotiation. This modifier is affected by diminishing returns—reference the following table for specifics.
 
 * 1 influence: +0
 * 2 influence: +1
@@ -221,7 +221,39 @@ Cost before modifiers: variable
 * Liked: -2 to DC
 * Allied: -4 to DC
 
-### Improve Relations
+**Bargaining chips.** Sometimes, external factors can influence negotiations. These act as modifiers to the negotiation check DC. Some examples are provided.
+
+* Guild has stronger military presence than target: -2 to DC
+* Target has stronger military presence than target: +2 to DC
+* Guild has information important to target: -2 to DC
+* Guild has item important to target: -3 to DC
+* Guild has hostage important to target: -4 to DC
+
+**Repeated negotiations.** If a negotiation check fails, a -2 modifier is applied to the next attempt to make the same specific negotiation. These are cumulative and fall off after one year. It is up to the GMs discretion regarding how different two negotiation attempts must be for the penalty to not apply. 
+
+**Improve relations.** Improve relations is a special kind of negotiation. Preexisting relationships, bargaining chips, and repeated negotiation modifiers do not apply. Instead, only the amount of influence used for the action affects the roll. A specific DC applies for each level of relationship improvement, provided in the following table.
+
+* Increase relations from Hated to Disliked: DC 19
+* Increase relations from Disliked to Neutral: DC 15
+* Increase relations from Neutral to Liked: DC 17
+* Increase relations from Liked to Allied: DC 22
+
+**Example negotiations.** Examples negotiation are provided, along with appropriate base DCs for them, but the GM should work with players who wish to attempt other negotiations.
+
+* Sign a peace treaty: DC 13
+* Strike a deal
+  * Favorable to target: DC 10
+  * Neutral to target: DC 13
+  * Unfavorable to target: DC 18
+* Obtain information
+  * Trivial: DC 10
+  * Notable: DC 13
+  * Important: DC 16
+  * Confidential: DC 20
+* Request military aid (must be Liked or Allied):
+  * Limited (2 mil. influence): DC 17
+  * Regular (4 mil. influence): DC 20
+  * Extensive (8 mil. influence): DC 23
 
 ### Order a Search
 
