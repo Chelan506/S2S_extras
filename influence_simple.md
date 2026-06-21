@@ -203,7 +203,7 @@ Cost before modifiers: variable
 #### Modifiers:
 
 **Rush.** You order the negotiators to depart immediately by the fastest available means. You must use this modifier if you wish to order negotiations *during* an adventure and have them occur before the adventure ends. (You do not need to take this modifier if you order the negotiations at the *beginning* of the adventure, before you leave your base.) The influence cost of the negotiations is doubled.
-**Influence** reach. Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
+**Influence reach.** Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
 
 #### Adjudication:
 
@@ -261,11 +261,40 @@ Cost before modifiers: variable
 
 ### Order a Search
 
+You order a team of investigators and spies to find out something for you. The subject of interest can vary: a survey of all rumors in a city; the location of an item, site, or individual; the daily activities of a person of interest; the identity of the perpetrator of a crime; the floor plans of a building you intend to attack; etc. Sometimes this is required before you can take other actions, such as ordering a military strike. This action cannot be used to find items for purchase; use the Purchase an Item economic action instead. 
 
+Cost before modifiers: variable
 
+#### Modifiers:
 
+**Rush.** You order the investigators to conduct a quick search and turn up results immediately. The search roll is made at disadvantage, but if it succeeds, you will have your information within 8 hours. You must use this modifier if you wish to order negotiations *during* an adventure and have them occur before the adventure ends. (You do not need to take this modifier if you order the negotiations at the *beginning* of the adventure, before you leave your base.) The influence cost of the search is doubled.
+**Influence reach.** Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
 
+#### Adjudication
 
+**Search checks.** The general format of a search check is as follows: first, you as the GM must set a  DC for the type of search. Then, roll 1d20 and add a modifier according to the amount of infuence used for the search. This modifier is affected by diminishing returns—reference the following table for specifics.
 
+* 1 influence: +0
+* 2 influence: +1
+* 4 influence: +2
+* 8 influence: +3
+* 16 influence: +4
+* 32 influence: +5
+* Etc.
+
+**Repeated searches.** If a search fails, it cannot be attempted again. 
+
+**Example searches.** Some examples of searches, and their appropriate DCs, are provided. Adjust these according to the specific circumstances of the search.
+
+* Identify rumors: DC 8
+* Locate someone's residence: DC 10
+* Locate a hidden base: DC 13
+* Locate a hidden dungeon: DC 15
+* Track someone's daily activities: DC 13
+* Obtain information about a site (e.g. guard postings, floor plans): DC 15
+* Find the identity of an anonymous person: DC 15
+* Uncover a blackmailable secret: DC 18
+* Locate a rare magic item: DC 18
+* Locate a legendary magic item: DC 22
 
 
