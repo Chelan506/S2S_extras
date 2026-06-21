@@ -1,6 +1,6 @@
 # INFLUENCE SYSTEM
 
-The influence system is an optional rule in S2S that formalizes the large scale acquisition of wealth and political power. It defines how powerful an adventuring guild is, independent of the combat prowess of its actual adventurers. The influence system operates across various domains, from the smallest villages to entire planets. The influence system is good for groups who enjoy political games, long term power scaling, and the interacting with the game world. It is not good for groups who prefer a focus on game balance, combat, and the journey of a lone band of heroes.
+The influence system is an optional rule in S2S that formalizes the large scale acquisition of wealth and political power. It defines how powerful an adventuring guild is, independent of the combat prowess of its actual adventurers. The influence system operates across various Domains, from the smallest villages to entire planets. The influence system is good for groups who enjoy political games, long term power scaling, and the interacting with the game world. It is not good for groups who prefer a focus on game balance, combat, and the journey of a lone band of heroes.
 
 [This spreadsheet can be used to keep track of your holdings and influence.](https://docs.google.com/spreadsheets/d/1s1hLqJW0dc8jWIaone807tDiubQNjvdqNuYCgu4clwI/edit?usp=sharing)
 
@@ -16,13 +16,13 @@ Influence slots are shared by the entire guild. Any member may contribute gold t
 
 Influence Capacity is a representation of how far your influence can stretch. It is provided by Influence Extender holdings, and is necessary to build holdings at levels higher than City.
 
-# DOMAINS
+# DomainS
 
-Your influence varies by location. The domains are City, Province, Nation, Continent, and Planet. You start by buying holdings at the City level, which increases your influence only within the city. Once you have enough influence, you can spend it in exchange for the ability to buy holdings at a higher level domain. So, once you have enough influence at the City level, you may expend it to gain influence at the Province level, and this can continue recursively.
+Your influence varies by location. The Domains are City, Province, Nation, Continent, and Planet. You start by buying holdings at the City level, which increases your influence only within the city. Once you have enough influence, you can spend it in exchange for the ability to buy holdings at a higher level Domain. So, once you have enough influence at the City level, you may expend it to gain influence at the Province level, and this can continue recursively.
 
 There is a limit to how much influence you can buy. Unless your GM says otherwise, your City Influence Capacity is set at 25 and thus you cannot acquire more than 100 City influence slots. This subsequently limits your Provincial, National, etc influence.
 
-When using influence slots to take influence actions, you can take those actions within the domain that your influence applies in for no penalty. You can also take those actions at the domain one level higher, at a cost of doubling the influence slots required.
+When using influence slots to take influence actions, you can take those actions within the Domain that your influence applies in for no penalty. You can also take those actions at the Domain one level higher, at a cost of doubling the influence slots required.
 
 For example, if you have 30 City influence and 10 Province influence, you can do any of the following things:
 
@@ -34,7 +34,7 @@ For example, if you have 30 City influence and 10 Province influence, you can do
 
 # HOLDINGS
 
-When you buy a holding, you must specify the domain at which you buy it. If you are just starting out, only the City domain is available. If you wish to sell a holding (to liquidate your assets or to replace it with a different kind of holding), you can do so at one half of the buying price. 
+When you buy a holding, you must specify the Domain at which you buy it. If you are just starting out, only the City Domain is available. If you wish to sell a holding (to liquidate your assets or to replace it with a different kind of holding), you can do so at one half of the buying price. 
 
 ### Military Holding
 ```
@@ -90,7 +90,7 @@ Cost before modifiers: 1 military influence per 4 soldiers sent
 
 **Covert strike**. You order your soldiers to act with subterfuge. If your soldiers are undiscovered, the party responsible for the attack will not be known. However, there is a risk of discovery and subsequent failure. This option is more effective with smaller scale attacks. The influence cost of the attack is doubled.
 
-**Influence reach.** Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
+**Influence reach.** Standard modifier for extending your influence to a higher level Domain. The influence cost is doubled.
 
 #### Adjudication:
 
@@ -133,11 +133,11 @@ If the stealth check succeeds, roll for the attack as in a standard attack, but 
 
 If an attack fails, the target will shore up its defenses. Apply a -1 modifier to the next attack on the same target; this is cumulative with multiple failures. Remove the modifier if the guild finds a way to attack in a new or different way. If the attack succeeds, the guild may do as it wishes with the subdued target. It may be destroyed, looted, forced out of its home, etc. If appropriate, the GM may allocate a gold reward to the guild representing looted items. 4-10 GP per influence of the target is suggested.
 
-The players may order their soldiers to do illegal things or to attack targets that are important to other factions. Consider the power and interest of the higher level domains, and decide how they will respond. You can have the players' military holdings attacked, have their base raided, or have forces attempt to arrest a player during a session.
+The players may order their soldiers to do illegal things or to attack targets that are important to other factions. Consider the power and interest of the higher level Domains, and decide how they will respond. You can have the players' military holdings attacked, have their base raided, or have forces attempt to arrest a player during a session.
 
 ### Patrol an Area
 
-You order a detachment of soldiers to patrol an area. The area can be as small as a single building or as large as the detachment's entire domain. The soldiers will follow your orders, so it is up to you what they do while on patrol. You can order them to attack certain people on sight, prevent access to an area, shake down civillians for coin, enforce local laws—anything you want, though you will be held responsible for their actions. One common thread is that they will always report back to you about anything noteworthy in their patrol area.
+You order a detachment of soldiers to patrol an area. The area can be as small as a single building or as large as the detachment's entire Domain. The soldiers will follow your orders, so it is up to you what they do while on patrol. You can order them to attack certain people on sight, prevent access to an area, shake down civillians for coin, enforce local laws—anything you want, though you will be held responsible for their actions. One common thread is that they will always report back to you about anything noteworthy in their patrol area.
 
 #### Detemining a patrol area:
 
@@ -145,9 +145,9 @@ You can decide how widely spread you want your soldiers to be. You can cover mor
 
 * **Entire Domain.** Your City soldiers will patrol the entire city, your Province soldiers will patrol the entire province, etc.
 * **Subdomain/Domain part.** Your City soldiers will patrol a single neighborhood. Your Province soldiers will patrol a single city, or a single part of the province.
-* **Location.** Your soldiers, regardless of domain, will be stationed at a single location.
+* **Location.** Your soldiers, regardless of Domain, will be stationed at a single location.
 
-Unlike other influence actions, it is not possible to spend extra influence to allow soldiers to patrol outside of their domain.. 
+Unlike other influence actions, it is not possible to spend extra influence to allow soldiers to patrol outside of their Domain.. 
 
 #### Adjudication:
 
@@ -160,21 +160,72 @@ Unlike other influence actions, it is not possible to spend extra influence to a
 
 **Encounters.** If a hostile force enters the patrolled territory, the soldiers will attempt to attack and drive away the force. Determine the intruders military influence per the examples in the Order a Strike action. Then, take the influence spent on patrolling the area. Halve it if the area is an Entire Domain. Double it if the area is a Location. If the patrollers' adjusted influence is equal to or higher than the influence of the intruding force, the intruders are driven off and the incident is reported to the guild. If it is lower than the influence of the intruding force, the patrollers are forced to retreat and the intruders may act with impunity.
 
-**Law.** The players may order their soldiers to do illegal or unpopular things while on patrol. Consider the power and interest of the higher level domains, and decide how they will respond. You can have the players' military holdings destroyed, have their base raided, or have forces attempt to arrest a player during a session.
+**Law.** The players may order their soldiers to do illegal or unpopular things while on patrol. Consider the power and interest of the higher level Domains, and decide how they will respond. You can have the players' military holdings destroyed, have their base raided, or have forces attempt to arrest a player during a session.
 
 ## Economic
 
 ### Pay Out Gold
 
-For every 1 influence spent paying out gold, 150 GP of profit is made. The players should decide in advance whether they would like these profits to be distributed equally among players or to be deposited in a common guild fund for future developments. 
+For every 1 influence spent paying out gold, 150 GP of profit is made. These funds are to be deposited in a common guild fund for future developments. Any player may withdraw gold from this fund, or use it to purchase holdings or base upgrades. Players should coordinate between each other to decide the allocation of funds. If there is a disagreement that the players fail to resolve themselves, the GM has final authority as to what happens to the gold. 
 
 ### Purchase an Item
 
+You order some of your merchants to find a rare (usually magic) item that cannot be purchased by normal means. If they succeed, you can choose to buy the item at the quoted price and have it delivered anywhere in the chosen Domain within a week.
+
+Cost: 4 economic influence per search
+
+#### Modifiers:
+
+**Rush.** You attempt to have the purchase order filled urgently. The search check is rolled at disadvantage, but if it succeeds you can have the item delivered anywhere in the chosen Domain in 8 hours. You must use this modifier if you wish to order a purchase *during* an adventure and have it occur before the adventure ends. (You do not need to take this modifier if you order the purchase at the *beginning* of the adventure, before leaving your base.) The influence cost of the search is tripled.
+**General.** Instead of trying to find a specific item, you can order a blanket search for powerful items. If successful, your merchants will find 1-4 magic items for sale at market price.
+**Influence reach.** Standard modifier for extending your influence to a higher level Domain. Useful if an item cannot be found in a lower level Domain, or if it must be delivered outside of it. The influence cost is doubled.
+
+#### Adjudication:
+
+**Standard.** As the GM, decide if the desired object is present anywhere in the search Domain. If it isn't, the check fails. If it is, roll a search check. The DC depends on the rarity of the item: 10 for common, 13 for uncommon, 17 for rare, 22 for legendary. Add 2 to the roll for provincial influence, 4 for national, 6 for continental. If the check passes, the item may be purchased; if it passes by 4 or more, it is at a 10% discount.
+
+**General.** Roll a DC 15 search check. Add 2 for provincial influence, 4 for national, and 6 for continental. If the search roll succeeds, it turns up 1d4 items at market price. The rarity of each item is determined by a d20 roll: 0-10 for Common, 11-17 for Uncommon, 18-20 for Rare. Once the rarity is determined, roll on the relevant table of the magic item compendium to determine what is found.
+
+**Pricing.** Many magic items do not have preset prices. To decide the market price, start with 200 GP for common items, 600 GP for uncommon items, 2,000 GP for rare items, and 8,000 GP for legendary items. Adjust upwards or downwards based on the power and rarity of the item.
+
 ## Diplomatic
+
+### Negotiate
+
+You order a diplomatic party to approach an individual or faction and attempt to improve relations, strike a deal or obtain information. This influence action is highly variable; work with your GM to determine what you would like your diplomats to do and what the outcome will be. In all cases, you can dedicate more influence to the negotiation to improve outcomes of success.
+
+Cost before modifiers: variable
+
+#### Modifiers:
+
+**Rush.** You order the negotiators to depart immediately by the fastest available means. You must use this modifier if you wish to order negotiations *during* an adventure and have them occur before the adventure ends. (You do not need to take this modifier if you order the negotiations at the *beginning* of the adventure, before you leave your base.) The influence cost of the negotiations is doubled.
+**Influence** reach. Standard modifier for extending your influence to a higher level domain. The influence cost is doubled.
+
+#### Adjudication:
+
+**Negotiation checks.** The general format of a negotiation check is as follows: first, you as the GM must set a base DC for the type of negotiation. Then you must modify the DC depending on preexisting relations. Add a penalty if the specific negotiation in question has been failed before. Then, roll 1d20 and add a modifier according to the amount of infuence used for the negotiation. This modifier is affected by diminishing returns—reference the following table for specifics.
+
+* 1 influence: +0
+* 2 influence: +1
+* 4 influence: +2
+* 8 influence: +3
+* 16 influence: +4
+* 32 influence: +5
+* Etc.
+
+**Relationships.** A framework for representing the diplomatic relationships between the guild and factions or individuals is provided. The GM determines the initial relationship level at the start of the campaign. It can be increased or decreased by the guild taking actions which affect the relevant faction, or through the Improve Relations action. The relationship level modifies the DC for every negotiation check the guild attempts. The levels and their associated modifiers are provided in the following table.
+
+* Hated: +8 to DC
+* Disliked: +4 to DC
+* Neutral: +0 to DC
+* Liked: -2 to DC
+* Allied: -4 to DC
+
+### Improve Relations
 
 ### Order a Search
 
-### Negotiate
+
 
 
 
