@@ -6,7 +6,9 @@ The influence system is an optional rule in S2S that formalizes the large scale 
 
 # SIMPLE AND COMPLEX INFLUENCE
 
-The influence system comes with two sets of rules, the simple rules and complex rules. You are reading the simple rules, which are designed to be straightforward and to need less recordkeeping. However, they are less powerful than the complex rules. More than likely, unless you have the same flavor of autism as me, you will have no need or desire to read the complex rules. But they are made available just in case.
+The influence system comes with two sets of rules, the simple rules and complex rules. You are reading the simple rules, which are designed to be straightforward and to need less recordkeeping. However, they are less powerful than the complex rules. More than likely, unless you have the same flavor of autism as me, you will have no need or desire to read the complex rules. But they are made available just in case.*
+
+<sub>*the complex rules are a work in progress and will probably never be completed<\sub>
 
 # INFLUENCE SLOTS
 
