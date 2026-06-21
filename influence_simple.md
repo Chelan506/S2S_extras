@@ -20,6 +20,8 @@ Influence Capacity is a representation of how far your influence can stretch. It
 
 Your influence varies by location. The Domains are City, Province, Nation, Continent, and Planet. You start by buying holdings at the City level, which increases your influence only within the city. Once you have enough influence, you can spend it in exchange for the ability to buy holdings at a higher level Domain. So, once you have enough influence at the City level, you may expend it to gain influence at the Province level, and this can continue recursively.
 
+[This graph shows the domains of Ulfenria.](https://github.com/Chelan506/S2S_extras/blob/main/ulfenria%20domain%20graph.png)
+
 There is a limit to how much influence you can buy. Unless your GM says otherwise, your City Influence Capacity is set at 25 and thus you cannot acquire more than 100 City influence slots. This subsequently limits your Provincial, National, etc influence.
 
 When using influence slots to take influence actions, you can take those actions within the Domain that your influence applies in for no penalty. You can also take those actions at the Domain one level higher, at a cost of doubling the influence slots required.
