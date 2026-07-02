@@ -261,7 +261,7 @@ Cost before modifiers: variable
 
 ### Order a Search
 
-You order a team of investigators and spies to find out something for you. The subject of interest can vary: a survey of all rumors in a city; the location of an item, site, or individual; the daily activities of a person of interest; the identity of the perpetrator of a crime; the floor plans of a building you intend to attack; etc. Sometimes this is required before you can take other actions, such as ordering a military strike. This action cannot be used to find items for purchase; use the Purchase an Item economic action instead. 
+You order a team of investigators and spies to find out something for you. The subject of interest can vary: a survey of all rumors in a city; the location of an item, site, or individual; the daily activities of a person of interest; the identity of the perpetrator of a crime; the floor plans of a building you intend to attack; etc. Sometimes this is required before you can take other actions, such as ordering a military strike. This action cannot be used to find items for purchase (though it can be used to find items that may be obtained by quest); use the Purchase an Item economic action instead. 
 
 Cost before modifiers: variable
 
