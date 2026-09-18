@@ -1,9 +1,19 @@
 ```
 CHANGELOG
 
+V 1.3.1
+- improved close weapon system operation courtesy of MGoU
+
 V 1.3
+- strengthened outer casing
+- improved suppressive fire algorithm
+- downloaded more RAM
+- added CLCWS
+
+V 1.2
 - added handspeak support
 - added auto attack
+- added self defense
 - added auto heal
 - added silent mode
 
@@ -76,6 +86,11 @@ Config settings can be changed by the "Change Setting" prompt.
 
 DESCRIPTION: allows QuestBot to attack a creature who makes an attack against a guild member. WARNING: this bypasses firing authorization! Spellcasting currently not supported.
 DEFAULT: true
+
+### Self-defense
+
+DESCRIPTION: allows QuestBot to fight back against creatures attacking it. WARNING: this bypasses firing authorization! Spellcasting currently not supported.
+DEFAULT: false
 
 ### Auto-heal
 
