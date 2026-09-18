@@ -1,3 +1,16 @@
+```
+CHANGELOG
+
+V 1.3
+- added handspeak support
+- added auto attack
+- added auto heal
+- added silent mode
+
+V 1.0
+- created
+```
+
 # QuestBot User Manual
 
 Congratulations on acquiring your new and improved QuestBot! You have been selected as one of our beta testers to help us improve our weapons technology and eventually push back the endless hordes of Kharzugan dragon riders slaughtering our people and burning our villages!!!! Make sure to take lots of notes on how your QuestBot performs so we can iron out any issues.
@@ -55,9 +68,31 @@ Your QuestBot has several built in routines to provide a smooth user experience 
 3) Target threats, acquiring authorization before firing
 4) Provide medical assistance to injured guild members
 
+## Configuration
+
+Config settings can be changed by the "Change Setting" prompt. 
+
+### Auto-attack
+
+DESCRIPTION: allows QuestBot to attack a creature who makes an attack against a guild member. WARNING: this bypasses firing authorization! Spellcasting currently not supported.
+DEFAULT: true
+
+### Auto-heal
+
+DESCRIPTION: allows QuestBot to heal non-hostile non-guild member creatures automatically, when no guild members are threatened. Useful for publicity stunts!
+DEFAULT: false
+
+### Silent
+
+DESCRIPTION: going on a stealth mission? QuestBot can play along! Silences all audio output.
+DEFAULT: false
+
+
 ## Troubleshooting
 
--this part is scribbled out-
+**How do I use my QuestBot if I can't talk?**
+
+Mute? Trapped into an antisound field? Communicating with your **QuestBot** over extreme distances? Not to worry! Your **QuestBot** comes equipped preset Handspeak commands. See Appendix B for Handspeak commands and instructions on registering new commands. 
 
 ## Maintenance
 
