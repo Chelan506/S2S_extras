@@ -1,6 +1,11 @@
 ```
 CHANGELOG
 
+v 1.4
+- added situational overclocking
+- increased tincture inventory
+- added escort/defend routine
+
 V 1.3.1
 - improved close weapon system operation courtesy of MGoU
 
@@ -77,6 +82,12 @@ Your QuestBot has several built in routines to provide a smooth user experience 
 2) Stay near guild members; interpose self between guild members and threats
 3) Target threats, acquiring authorization before firing
 4) Provide medical assistance to injured guild members
+
+### Escort
+
+1) Follow a given entity
+2) Attack any creatures that make an attack against the entity, or which the entity directs to be attacked
+3) Once dismissed by the entity or a guild member, return to nearest guild member
 
 ## Configuration
 
