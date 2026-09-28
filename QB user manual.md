@@ -1,6 +1,12 @@
 ```
 CHANGELOG
 
+v 1.5
+- strengthened outer casing
+- improved targeting algorithm
+- overhauled primary and secondary weapon systems to allow firing in tandem
+- added new reactive fire triggers
+
 v 1.4
 - added situational overclocking
 - increased tincture inventory
