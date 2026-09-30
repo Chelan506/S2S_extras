@@ -111,3 +111,53 @@ Sweeping Blades
 *Fire devil*: A fire tornado appears at a point within Kastoro's lair. The tornado moves 20 feet in a path determined by Kastoro. All creatures touched by the tornado take 1d8 fire damage.
 *Entangle* (themed as quicksand)
 ```
+
+## golden sands 
+
+```
+Adtekan
+Medium monstrosity (abomination)
+XP: 2000
+HP: 70
+AC: 13 (reckless)
+Speed: 90ft
+Proficiency bonus: +4
+
+|STR|DEX|CON|INT|WIS|CHA|
+| 20| 20| 14| 10| 12| 02|
+| +5| +5| +2| +0| +1| -4|
+|   | X |   |   | X |   |
+
+Actions
+
+Two actions per turn
+
+Grapple. Athletics contest (+9).
+Rip. +9 to hit, 2d6 + 5 magical slashing damage. Advantage on grapple creatures.
+
+Pick up; can grab an incapacitated player and run off with them
+
+Cut off a limb.
+
+Reattach a limb. When the player wakes, lose 1d4-1 sanity automatically.
+
+-
+
+Adtekan will focus down a player and then do a modification and then run.
+
+Adtekan's modification table (d8):
+1- shortened legs (c)
+2- lost digits (c)
+3- serpentine (c)
+4- polyphemus (c)
+5- dull senses, hearing (c)
+6- mouth tentacles (c)
+7- hefty tongue (c)
+8- permanently prone
+
+The Flectcairn may be use to enact any corruption on someone that has to do with the arrangement of limbs or bodily features.
+
+The Flectcairn can be used to saw off a limb or reattach it. Each requires an action. The target must be incapacitated or willing. Using the Flectcairn on oneself requires a DC 18 willpower check. Using it on a creature that is not already incapacitated deals 10 slashing damage. Reattaching a limb to an incapacitated creature restores them to 1 HP. 
+
+Creatures not attuned to the Flectcairn must make a DC 13 medicine check to successfully reattach a limb. Upon failure, the target takes 1d4 slashing damage and the limb is not reattached.
+```
