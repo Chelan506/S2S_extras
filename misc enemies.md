@@ -161,3 +161,87 @@ The Flectcairn can be used to saw off a limb or reattach it. Each requires an ac
 
 Creatures not attuned to the Flectcairn must make a DC 13 medicine check to successfully reattach a limb. Upon failure, the target takes 1d4 slashing damage and the limb is not reattached.
 ```
+```
+Solari Assassin Recruit
+Medium Humanoid
+XP: 250
+HP: 20
+AC: 15 (Studded leather)
+Speed: 30ft
+Proficiency Bonus: +3
+
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 16| 15| 12| 12| 12|
+| +2| +3| +2| +1| +1| +1|
+| X | X |   |   |   |   |
+
+\# Features
+
+Proficient in Stealth
+
+\# Attacks
+
+Dagger. +6, 1d4 + 3 piercing. 
+
+Hand crossbow. +6, 1d6 + 3 piercing.
+```
+```
+Solari Assassin
+Medium Humanoid
+XP: 1000
+HP: 35
+AC: 17 (Studded leather)
+Speed: 35ft
+Proficiency Bonus: +5
+
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 20| 16| 15| 17| 14|
+| +3| +5| +3| +2| +3| +2|
+|   | X |   |   | X |   |
+
+\# Features
+
+Proficient in Stealth, Athletics, Acrobatics, Persuasion, Deception, Sleight of Hand
+
+Dual Wielder (ability modifier)
+Poisoner (4d6 poison damage after one minute)
+
+\# Attacks
+
+Daggers. +10, 1d4 + 5 piercing. (x2, dual wielding). Can throw 20ft. 
+
+Heavy crossbow. +10, 1d10 + 5 piercing.
+```
+```
+Solari Assassin Master
+Medium Humanoid
+XP: 3000
+HP: 45
+AC: 19 (Studded leather)
+Speed: 40ft
+Proficiency Bonus: +8
+
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 24| 16| 19| 20| 18|
+| +4| +7| +3| +4| +5| +4|
+|   | X |   |   | X |   |
+
+\# Features
+
+Proficient in Stealth, Athletics, Acrobatics, Persuasion, Deception, Sleight of Hand
+
+Dual Wielder (ability modifier)
+Poisoner (4d6 poison damage in food, after one minute)
+Assassinate (double damage on surprise attack)
+Evasive maneuvers (no Adv incoming, autopass dex save*)
+
+Carries: 2x potion of invisibility, 1x potion of regeneration, 1x potion of quickfootedness
+
+this enemy needs to be played with intelligence
+
+\# Attacks
+
++1 Daggers. +16, 1d4 + 8 piercing. (x2, dual wielding). Can throw 20ft. 
+
+Heavy crossbow. +15, 1d10 + 7 piercing.
+```
